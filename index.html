@@ -3,486 +3,159 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <title>🌸 Bé Xu Vui Học 🌸</title>
+  <title>🌸 Bé Na Vui Học 🌸</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700&display=swap');
-    :root {
-      --card: rgba(255,255,255,0.95);
-    }
-    html,body { height: 100%; }
     body { font-family: 'Baloo 2', sans-serif; }
-
-    /* Popup động viên (nhỏ gọn, không che màn) */
-    .toast {
-      position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%);
-      background: var(--card); border: 2px solid #fda4af; color:#9f1239;
-      padding: 10px 14px; border-radius: 14px; box-shadow: 0 10px 20px rgba(0,0,0,.15);
-      animation: toastAnim 2.6s ease forwards; z-index: 9999; font-size: 15px;
-    }
-    @keyframes toastAnim {
-      0% { opacity: 0; transform: translate(-50%, 12px); }
-      12% { opacity: 1; transform: translate(-50%, 0); }
-      88% { opacity: 1; }
-      100% { opacity: 0; transform: translate(-50%, 12px); }
-    }
-
-    /* Nút đáp án rực rỡ */
     .option-btn {
-      width: 100%;
-      padding: 14px 16px;
-      border-radius: 16px;
-      color: #fff; font-weight: 800; font-size: 1.15rem;
-      box-shadow: 0 10px 18px rgba(0,0,0,.08);
-      transition: transform .12s ease;
+      width: 100%; padding: 14px; border-radius: 16px;
+      color:#fff; font-weight:800; font-size:1.15rem;
+      margin-bottom: 0.5rem; transition: transform .12s;
     }
-    .option-btn:active { transform: scale(1.03); }
-    .op-1 { background: linear-gradient(135deg,#f59e0b,#fbbf24); }
-    .op-2 { background: linear-gradient(135deg,#3b82f6,#60a5fa); }
-    .op-3 { background: linear-gradient(135deg,#10b981,#34d399); }
-    .op-4 { background: linear-gradient(135deg,#ec4899,#f472b6); }
-
-    /* Pháo hoa */
-    #fx { pointer-events:none; position: fixed; inset: 0; z-index: 9000; }
-    .spark {
-      position:absolute; width:10px; height:10px; border-radius:50%;
-      animation: boom 800ms ease-out forwards;
+    .option-btn:active { transform:scale(1.03); }
+    .op-1{background:linear-gradient(135deg,#f59e0b,#fbbf24);}
+    .op-2{background:linear-gradient(135deg,#3b82f6,#60a5fa);}
+    .op-3{background:linear-gradient(135deg,#10b981,#34d399);}
+    .op-4{background:linear-gradient(135deg,#ec4899,#f472b6);}
+    .toast {
+      position:fixed; left:50%; bottom:18px; transform:translateX(-50%);
+      background:#fff; border:2px solid #fda4af; padding:10px 14px;
+      border-radius:14px; color:#9f1239; font-size:15px;
+      box-shadow:0 6px 12px rgba(0,0,0,.15);
+      animation:fade 2.6s ease forwards; z-index:9999;
     }
-    @keyframes boom {
-      0% { transform: translate(-50%,-50%) scale(.4); opacity:1; }
-      100% { transform: translate(var(--tx),var(--ty)) scale(0.9); opacity:0; }
-    }
-
-    /* Thẻ chọn môn (điện thoại dễ bấm) */
-    .subject-card {
-      min-height: 110px;
-      border-radius: 22px;
-      color:#fff; font-weight: 800;
-      box-shadow: 0 12px 24px rgba(0,0,0,.12);
-      transition: transform .15s ease;
-    }
-    .subject-card:active { transform: scale(0.98); }
-
-    /* Ô kéo thả */
-    .drop-zone {
-      border: 2px dashed #c4b5fd; border-radius: 16px;
-      padding: 18px; min-height: 64px;
-    }
-    .drag-pill {
-      display:inline-block; padding: 10px 14px; border-radius: 999px;
-      background:#fda4af; color:#7f1d1d; font-weight:800; margin: 6px;
-      box-shadow: 0 8px 16px rgba(0,0,0,.08);
-      touch-action:none;
+    @keyframes fade {
+      0%{opacity:0; transform:translate(-50%,12px);}
+      12%{opacity:1; transform:translate(-50%,0);}
+      88%{opacity:1;}
+      100%{opacity:0; transform:translate(-50%,12px);}
     }
   </style>
 </head>
 <body class="bg-gradient-to-br from-pink-100 via-yellow-50 to-blue-100 min-h-screen flex flex-col">
 
-  <div class="max-w-4xl mx-auto p-4 flex-grow w-full">
-    <!-- Header -->
-    <div class="flex items-center justify-between mb-4">
-      <h1 class="text-3xl sm:text-4xl font-extrabold text-purple-700 text-center w-full">
-        🌸 Bé Xu Vui Học 🌸
-      </h1>
-      <!-- Nút nhạc -->
-      <button id="musicToggle" class="hidden sm:inline-flex ml-3 px-3 py-2 bg-purple-500 text-white rounded-xl font-bold">🔈</button>
+<div class="max-w-4xl mx-auto p-4 flex-grow w-full">
+  <h1 class="text-3xl sm:text-4xl font-extrabold text-center mb-4 text-purple-700">🌸 Bé Na Vui Học 🌸</h1>
+
+  <!-- HOME -->
+  <section id="home" class="space-y-5">
+    <div class="grid grid-cols-2 sm:grid-cols-5 gap-3">
+      <button class="p-5 rounded-2xl bg-blue-500 text-white font-bold" onclick="start('toan2.json','🔢 Toán 2')">🔢<br/>Toán 2</button>
+      <button class="p-5 rounded-2xl bg-green-500 text-white font-bold" onclick="start('tiengviet2.json','📘 Tiếng Việt 2')">📘<br/>Tiếng Việt 2</button>
+      <button class="p-5 rounded-2xl bg-amber-500 text-white font-bold" onclick="start('tnxh2.json','🌱 Tự nhiên & Xã hội 2')">🌱<br/>Tự nhiên & Xã hội 2</button>
+      <button class="p-5 rounded-2xl bg-rose-500 text-white font-bold" onclick="start('tienganh2.json','🌍 English 2')">🌍<br/>English 2</button>
+      <button class="p-5 rounded-2xl bg-violet-500 text-white font-bold" onclick="start('honhop.json','🎲 Hỗn hợp')">🎲<br/>Hỗn hợp</button>
     </div>
+  </section>
 
-    <!-- ====== HOME ====== -->
-    <section id="home" class="space-y-5">
-      <div class="grid grid-cols-2 sm:grid-cols-5 gap-3">
-        <button class="subject-card bg-blue-500 p-5" onclick="start('toan2.json','🔢 Toán 2')">🔢<br/>Toán 2</button>
-        <button class="subject-card bg-green-500 p-5" onclick="start('tiengviet2.json','📘 Tiếng Việt 2')">📘<br/>Tiếng Việt 2</button>
-        <button class="subject-card bg-amber-500 p-5" onclick="start('tnxh2.json','🌱 Tự nhiên & Xã hội 2')">🌱<br/>Tự nhiên & Xã hội 2</button>
-        <button class="subject-card bg-rose-500 p-5" onclick="start('tienganh2.json','🌍 English 2')">🌍<br/>English 2</button>
-        <button class="subject-card bg-violet-500 p-5" onclick="start('honhop.json','🎲 Hỗn hợp')">🎲<br/>Hỗn hợp</button>
+  <!-- GAME -->
+  <section id="game" class="hidden">
+    <div class="bg-white rounded-2xl p-4 shadow-md">
+      <div class="flex items-center justify-between mb-3">
+        <div id="subjectName" class="font-bold text-purple-700">Đang chơi</div>
+        <div id="progressText" class="text-sm font-bold text-gray-600">0/0</div>
       </div>
-
-      <div class="text-center">
-        <button onclick="openLeaderboard()" class="px-5 py-3 rounded-2xl bg-gradient-to-r from-pink-500 to-purple-600 text-white font-bold shadow">
-          🏆 Xem thành tích
-        </button>
+      <div id="qEmoji" class="text-5xl text-center mb-2">🤔</div>
+      <h2 id="qText" class="text-xl font-extrabold text-center mb-4">...</h2>
+      <div id="optWrap"></div>
+      <div class="mt-4 flex justify-between">
+        <button onclick="quitToHome()" class="px-4 py-2 bg-gray-400 text-white rounded-xl">🏠 Trang chủ</button>
+        <button onclick="skip()" class="px-4 py-2 bg-amber-500 text-white rounded-xl">➡️ Bỏ qua</button>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <!-- ====== GAME ====== -->
-    <section id="game" class="hidden">
-      <div class="bg-white/90 rounded-2xl p-4 sm:p-6 shadow-lg">
-        <!-- hàng trên -->
-        <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 mb-3">
-          <div class="text-purple-700 font-extrabold text-lg" id="subjectName">Đang chơi:</div>
-          <div class="flex items-center gap-2">
-            <div class="text-sm sm:text-base font-bold text-gray-600" id="progressText">Câu 1/10</div>
-            <div class="w-36 sm:w-52 bg-purple-100 rounded-full h-3 overflow-hidden">
-              <div id="progressBar" class="bg-gradient-to-r from-purple-400 to-pink-400 h-3 rounded-full" style="width: 0%"></div>
-            </div>
-          </div>
-        </div>
-
-        <!-- emoji + TTS -->
-        <div class="flex items-center justify-center gap-3 mb-2">
-          <div id="qEmoji" class="text-5xl">🤔</div>
-          <button id="speakBtn" class="hidden px-3 py-2 bg-yellow-400 rounded-lg text-lg" onclick="speak()">🔊</button>
-        </div>
-
-        <!-- câu hỏi -->
-        <h2 id="qText" class="text-xl sm:text-2xl font-extrabold text-center mb-4">...</h2>
-
-        <!-- vùng chơi -->
-        <div id="optWrap" class="space-y-3"></div>
-        <div id="fillWrap" class="hidden text-center">
-          <input id="fillInput" class="border-2 border-purple-200 rounded-xl px-4 py-3 text-lg text-center w-full sm:w-3/4 focus:outline-none focus:border-purple-400"
-                 placeholder="Điền đáp án..." />
-          <div class="mt-3">
-            <button class="px-5 py-3 rounded-xl bg-blue-500 text-white font-bold" onclick="checkFill()">Kiểm tra</button>
-          </div>
-        </div>
-        <div id="dragWrap" class="hidden">
-          <div id="dropZone" class="drop-zone text-center text-gray-500 font-bold mb-3">Kéo đáp án vào đây</div>
-          <div id="dragChoices" class="flex flex-wrap justify-center"></div>
-        </div>
-
-        <!-- điều hướng -->
-        <div class="mt-4 flex items-center justify-between">
-          <button onclick="quitToHome()" class="px-4 py-2 rounded-xl bg-gray-400 text-white font-bold">🏠 Trang chủ</button>
-          <button id="skipBtn" onclick="skip()" class="px-4 py-2 rounded-xl bg-amber-500 text-white font-bold">➡️ Bỏ qua</button>
-        </div>
+  <!-- RESULT -->
+  <section id="result" class="hidden">
+    <div class="bg-white rounded-2xl p-6 text-center shadow-md">
+      <div id="resEmoji" class="text-6xl mb-2">🏆</div>
+      <h3 id="resTitle" class="text-2xl font-extrabold mb-2">Kết quả</h3>
+      <div id="resScore" class="text-xl font-bold text-purple-700">0/10</div>
+      <div id="resPercent" class="text-gray-600 mt-1">0%</div>
+      <div class="mt-4 flex justify-center gap-3">
+        <button onclick="replay()" class="px-5 py-3 bg-green-500 text-white rounded-2xl">🔄 Chơi lại</button>
+        <button onclick="quitToHome()" class="px-5 py-3 bg-purple-500 text-white rounded-2xl">🏠 Trang chủ</button>
       </div>
-    </section>
+    </div>
+  </section>
+</div>
 
-    <!-- ====== RESULT ====== -->
-    <section id="result" class="hidden">
-      <div class="bg-white/90 rounded-2xl p-6 text-center shadow-lg">
-        <div id="resEmoji" class="text-6xl mb-2">🏆</div>
-        <h3 id="resTitle" class="text-2xl font-extrabold mb-2">Kết quả</h3>
-        <div id="resScore" class="text-xl font-bold text-purple-700">0/10</div>
-        <div id="resPercent" class="text-gray-600 mt-1">0%</div>
-        <div class="mt-4 flex items-center justify-center gap-3">
-          <button onclick="replay()" class="px-5 py-3 rounded-2xl bg-green-500 text-white font-bold">🔄 Chơi lại</button>
-          <button onclick="quitToHome()" class="px-5 py-3 rounded-2xl bg-purple-500 text-white font-bold">🏠 Trang chủ</button>
-        </div>
-      </div>
-    </section>
-
-    <!-- ====== LEADERBOARD ====== -->
-    <section id="leaderboard" class="hidden">
-      <div class="bg-white/90 rounded-2xl p-5 shadow-lg">
-        <div class="flex items-center justify-between mb-3">
-          <h3 class="text-xl sm:text-2xl font-extrabold text-purple-700">🏆 Thành tích</h3>
-          <button onclick="quitToHome()" class="px-4 py-2 rounded-xl bg-gray-400 text-white font-bold">⬅️ Về</button>
-        </div>
-        <div id="lbList" class="space-y-3">
-          <div class="text-center text-gray-500">Chưa có thành tích nào. Hãy chơi thử nhé! 🎮</div>
-        </div>
-      </div>
-    </section>
-  </div>
-
-  <!-- Lớp FX pháo hoa -->
-  <div id="fx"></div>
-
-  <!-- Âm thanh -->
-  <audio id="bgm" src="assets/bg-music.mp3" loop></audio>
-  <audio id="sndOk" src="assets/correct.mp3"></audio>
-  <audio id="sndNo" src="assets/wrong.mp3"></audio>
+<!-- Âm thanh -->
+<audio id="sndOk" src="assets/correct.mp3"></audio>
+<audio id="sndNo" src="assets/wrong.mp3"></audio>
 
 <script>
-  // ====== STATE
-  let bank = [];          // câu hỏi hiện tại
-  let idx = 0;            // chỉ số câu
-  let score = 0;          // điểm
-  let subjKey = "";       // key file
-  let subjName = "";      // tên hiển thị
+let pool=[], bank=[], idx=0, score=0, subjKey="", subjName="";
+const sndOk=document.getElementById('sndOk'), sndNo=document.getElementById('sndNo');
 
-  // ====== UTIL UI
-  function show(secId){
-    ["home","game","result","leaderboard"].forEach(id=>{
-      document.getElementById(id).classList.toggle("hidden", id!==secId);
-    });
-  }
+function show(id){["home","game","result"].forEach(s=>document.getElementById(s).classList.toggle("hidden",s!==id));}
 
-  // ====== MUSIC
-  const bgm = document.getElementById('bgm');
-  const sndOk = document.getElementById('sndOk');
-  const sndNo = document.getElementById('sndNo');
-  const musicToggle = document.getElementById('musicToggle');
-  let musicOn = true;
+async function start(file,name){
+  subjKey=file; subjName=name;
+  const r=await fetch('data/'+file+'?v='+Date.now());
+  const data=await r.json();
+  pool=shuffle(data);
+  bank=pool.splice(0,10);
+  idx=0;score=0;
+  document.getElementById('subjectName').textContent="Đang chơi: "+name;
+  show("game"); render();
+}
 
-  function tryPlay(a){ a.volume = (a===bgm?0.45:1); a.play().catch(()=>{}); }
-  function stop(a){ a.pause(); a.currentTime = 0; }
+function render(){
+  const q=bank[idx];
+  document.getElementById('progressText').textContent=`Câu ${idx+1}/${bank.length}`;
+  document.getElementById('qEmoji').textContent=q.emoji||"❓";
+  document.getElementById('qText').textContent=q.q;
+  const wrap=document.getElementById('optWrap');
+  wrap.innerHTML="";
+  (q.options||[]).forEach((opt,i)=>{
+    const btn=document.createElement('button');
+    btn.className=`option-btn ${['op-1','op-2','op-3','op-4'][i%4]}`;
+    btn.textContent=opt;
+    btn.onclick=()=>choose(i,q);
+    wrap.appendChild(btn);
+  });
+}
 
-  musicToggle.onclick = () => {
-    musicOn = !musicOn;
-    musicToggle.textContent = musicOn ? "🔈" : "🔇";
-    if(musicOn) tryPlay(bgm); else stop(bgm);
-  };
+function choose(i,q){
+  const ok=i===q.answer;
+  if(ok){score++;play(sndOk);} else {play(sndNo);toast("Đáp án đúng: "+q.options[q.answer]);}
+  idx++; setTimeout(next,1000);
+}
 
-  // Auto play nhạc ở màn hình Home
-  function enterHome(){
-    show("home");
-    if(musicOn) tryPlay(bgm);
-  }
+function skip(){
+  const q=bank[idx];
+  play(sndNo); toast("Đáp án đúng: "+q.options[q.answer]);
+  idx++; setTimeout(next,1000);
+}
 
-  // ====== START
-  async function start(file, name){
-    try {
-      subjKey = file; subjName = name;
-      const r = await fetch('data/'+file+'?v='+Date.now());
-      if(!r.ok) throw new Error("Không tải được dữ liệu: "+file);
-      const data = await r.json();
+function next(){
+  if(idx<bank.length){render();return;}
+  if(pool.length>=10){ bank=pool.splice(0,10); idx=0; render(); return; }
+  endGame();
+}
 
-      // xáo + lấy 10
-      bank = shuffle(data).slice(0,10);
-      idx = 0; score = 0;
+function endGame(){
+  const percent=Math.round(score/(bank.length||1)*100);
+  show("result");
+  document.getElementById('resScore').textContent=`${score}/${bank.length}`;
+  document.getElementById('resPercent').textContent=percent+"%";
+  document.getElementById('resTitle').textContent=percent>=90?"Xuất sắc!":percent>=70?"Tốt lắm!":percent>=50?"Khá tốt!":"Cố gắng hơn nhé!";
+  document.getElementById('resEmoji').textContent=percent>=90?"🏆":percent>=70?"🌟":percent>=50?"👍":"💪";
+}
 
-      document.getElementById('subjectName').textContent = "Đang chơi: " + name;
-      if(musicOn) tryPlay(bgm);
-      show("game");
-      render();
-    } catch(e){
-      alert("❌ "+e.message);
-      enterHome();
-    }
-  }
+function replay(){idx=0;score=0;show("game");render();}
+function quitToHome(){show("home");}
 
-  // ====== RENDER 1 CÂU
-  function render(){
-    const q = bank[idx];
-    // thanh tiến độ
-    document.getElementById('progressText').textContent = `Câu ${idx+1}/${bank.length}`;
-    document.getElementById('progressBar').style.width = `${Math.round((idx)/bank.length*100)}%`;
-    // hiển thị
-    document.getElementById('qEmoji').textContent = q.emoji || '❓';
-    document.getElementById('qText').textContent = q.q;
-
-    // English có nút đọc
-    document.getElementById('speakBtn').classList.toggle('hidden', subjKey!=='tienganh2.json');
-
-    // Ẩn/Hiện từng vùng
-    document.getElementById('optWrap').classList.add('hidden');
-    document.getElementById('fillWrap').classList.add('hidden');
-    document.getElementById('dragWrap').classList.add('hidden');
-
-    // Mặc định: multiple nếu không có type
-    const type = q.type || "multiple";
-
-    if(type === "multiple"){
-      const wrap = document.getElementById('optWrap');
-      wrap.innerHTML = "";
-      q.options.forEach((opt, i)=>{
-        const btn = document.createElement('button');
-        btn.className = `option-btn ${['op-1','op-2','op-3','op-4'][i%4]}`;
-        btn.textContent = opt;
-        btn.onclick = ()=> choose(i, q);
-        wrap.appendChild(btn);
-      });
-      wrap.classList.remove('hidden');
-    }
-    else if(type === "fill"){
-      document.getElementById('fillInput').value = "";
-      document.getElementById('fillWrap').classList.remove('hidden');
-    }
-    else if(type === "drag"){
-      const dz = document.getElementById('dropZone');
-      const dc = document.getElementById('dragChoices');
-      dz.textContent = "Kéo đáp án vào đây";
-      dc.innerHTML = "";
-      (q.dragItems||[]).forEach(val=>{
-        const pill = document.createElement('span');
-        pill.className = "drag-pill";
-        pill.textContent = val;
-        pill.draggable = true;
-        pill.addEventListener('dragstart', ev=>{
-          ev.dataTransfer.setData("text/plain", val);
-        });
-        // Touch drag (mobile)
-        pill.addEventListener('touchstart', touchDragStart);
-        pill.addEventListener('touchmove', touchDragMove);
-        pill.addEventListener('touchend', e=> touchDropToZone(e, val));
-        dc.appendChild(pill);
-      });
-      // drop zone desktop
-      dz.ondragover = ev => ev.preventDefault();
-      dz.ondrop = ev => {
-        ev.preventDefault();
-        const v = ev.dataTransfer.getData("text/plain");
-        check(v === q.answer, q.answer);
-      };
-      document.getElementById('dragWrap').classList.remove('hidden');
-    }
-  }
-
-  // ====== CHỌN ĐÁP ÁN (MULTIPLE)
-  function choose(i, q){
-    disableOptions(i, q.answer, q.options[q.answer]);
-    const ok = i===q.answer;
-    ok ? (score++, cheer()) : encourage(q.options[q.answer]);
-    setTimeout(next, 1200);
-  }
-
-  function disableOptions(chosenIndex, ansIndex, ansText){
-    const btns = document.querySelectorAll('#optWrap .option-btn');
-    btns.forEach((b, i)=>{
-      b.disabled = true;
-      if(i===ansIndex){ b.className = "option-btn bg-green-500"; }
-      else if(i===chosenIndex){ b.className = "option-btn bg-red-500"; }
-      else { b.className = "option-btn bg-gray-300 text-gray-600"; }
-    });
-  }
-
-  // ====== FILL-IN
-  function checkFill(){
-    const q = bank[idx];
-    const v = (document.getElementById('fillInput').value || "").trim();
-    const ok = v.localeCompare(q.answer, undefined, { sensitivity:'base' }) === 0;
-    ok ? (score++, cheer()) : encourage(q.answer);
-    setTimeout(next, 1200);
-  }
-
-  // ====== DRAG helpers (mobile)
-  let touchEl=null, startX=0, startY=0;
-  function touchDragStart(e){
-    touchEl = e.currentTarget;
-    const t = e.touches[0];
-    startX = t.clientX; startY = t.clientY;
-    touchEl.style.position='fixed'; touchEl.style.zIndex=9999;
-    touchEl.style.left = (startX - touchEl.offsetWidth/2)+'px';
-    touchEl.style.top  = (startY - touchEl.offsetHeight/2)+'px';
-  }
-  function touchDragMove(e){
-    if(!touchEl) return;
-    const t = e.touches[0];
-    touchEl.style.left = (t.clientX - touchEl.offsetWidth/2)+'px';
-    touchEl.style.top  = (t.clientY - touchEl.offsetHeight/2)+'px';
-  }
-  function touchDropToZone(e, val){
-    if(!touchEl) return;
-    const dz = document.getElementById('dropZone').getBoundingClientRect();
-    const t = e.changedTouches[0];
-    const inside = t.clientX>=dz.left && t.clientX<=dz.right && t.clientY>=dz.top && t.clientY<=dz.bottom;
-    touchEl.style = ""; touchEl = null;
-    if(inside){
-      const q = bank[idx];
-      check(val === q.answer, q.answer);
-    }
-  }
-
-  // Check for drag/fill result
-  function check(ok, rightText){
-    ok ? (score++, cheer()) : encourage(rightText);
-    setTimeout(next, 1200);
-  }
-
-  // ====== NEXT / END
-  function next(){
-    idx++;
-    if(idx < bank.length) { render(); return; }
-    // lưu thành tích
-    const percent = Math.round(score / bank.length * 100);
-    const rec = {
-      time: new Date().toLocaleString('vi-VN'),
-      subject: subjName,
-      file: subjKey,
-      score, total: bank.length, percent
-    };
-    const saved = JSON.parse(localStorage.getItem('be_na_scores')||'[]');
-    saved.unshift(rec);
-    localStorage.setItem('be_na_scores', JSON.stringify(saved.slice(0,50)));
-
-    // hiển thị kết quả
-    show("result");
-    document.getElementById('resScore').textContent = `${score}/${bank.length}`;
-    let emoji='💪', title='Cố gắng hơn nhé!', sub=`${percent}%`;
-    if(percent>=90){ emoji='🏆'; title='Xuất sắc!'; }
-    else if(percent>=70){ emoji='🌟'; title='Tốt lắm!'; }
-    else if(percent>=50){ emoji='👍'; title='Khá tốt!'; }
-    document.getElementById('resEmoji').textContent = emoji;
-    document.getElementById('resTitle').textContent = title;
-    document.getElementById('resPercent').textContent = `${percent}%`;
-  }
-
-  function replay(){ idx=0; score=0; show("game"); render(); }
-  function quitToHome(){ enterHome(); }
-
-  // ====== LEADERBOARD
-  function openLeaderboard(){
-    show('leaderboard');
-    const list = JSON.parse(localStorage.getItem('be_na_scores')||'[]');
-    const box = document.getElementById('lbList');
-    if(list.length===0){ box.innerHTML = '<div class="text-center text-gray-500">Chưa có thành tích nào. Hãy chơi thử nhé! 🎮</div>'; return; }
-    box.innerHTML = list.slice(0,30).map((r,i)=>`
-      <div class="flex items-center justify-between bg-white rounded-xl p-3 border border-purple-100">
-        <div class="font-bold text-purple-700">${i<3?['🥇','🥈','🥉'][i]: (i+1)+'.'}</div>
-        <div class="flex-1 px-2">
-          <div class="font-bold">${r.subject}</div>
-          <div class="text-xs text-gray-500">${r.time}</div>
-        </div>
-        <div class="text-right">
-          <div class="font-bold text-lg text-pink-600">${r.percent}%</div>
-          <div class="text-xs text-gray-400">${r.score}/${r.total}</div>
-        </div>
-      </div>
-    `).join('');
-  }
-
-  // ====== EFFECTS
-  function cheer(){
-    if(musicOn) { stop(sndOk); tryPlay(sndOk); }
-    fireworks();
-  }
-  function encourage(rightText){
-    if(musicOn) { stop(sndNo); tryPlay(sndNo); }
-    toast(`Sai rồi! 💡 Đáp án đúng: <b>${escapeHtml(rightText)}</b>`);
-  }
-
-  function fireworks(){
-    const fx = document.getElementById('fx');
-    for(let i=0;i<14;i++){
-      const d = document.createElement('div');
-      d.className='spark';
-      const hue = Math.floor(Math.random()*360);
-      d.style.background = `hsl(${hue} 90% 60%)`;
-      d.style.left='50%'; d.style.top='42%';
-      const ang = Math.random()*2*Math.PI, dist = 90 + Math.random()*80;
-      d.style.setProperty('--tx', Math.cos(ang)*dist+'px');
-      d.style.setProperty('--ty', Math.sin(ang)*dist+'px');
-      fx.appendChild(d);
-      setTimeout(()=>fx.removeChild(d), 820);
-    }
-  }
-
-  function toast(html){
-    const t = document.createElement('div');
-    t.className='toast'; t.innerHTML=html;
-    document.body.appendChild(t);
-    setTimeout(()=>document.body.removeChild(t), 2600);
-  }
-
-  // ====== TTS ENGLISH
-  function speak(){
-    const q = bank[idx];
-    if(!('speechSynthesis' in window)) return;
-    const u = new SpeechSynthesisUtterance(q.q);
-    u.lang='en-US'; u.rate=0.9;
-    window.speechSynthesis.cancel();
-    window.speechSynthesis.speak(u);
-  }
-
-  // ====== HELPERS
-  function shuffle(arr){ return arr.map(x=>({x, r:Math.random()})).sort((a,b)=>a.r-b.r).map(o=>o.x); }
-  function escapeHtml(s){ return String(s).replace(/[&<>"']/g, m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[m])); }
-
-  // Chống “kéo xuống reload” khi đang chơi trên mobile
-  let inGamePullBlock = false;
-  document.addEventListener('touchstart', ()=>{ inGamePullBlock = !document.getElementById('game').classList.contains('hidden'); }, {passive:true});
-  document.addEventListener('touchmove', (e)=>{
-    if(inGamePullBlock && window.scrollY<=0 && e.touches[0].clientY>30){ e.preventDefault(); }
-  }, {passive:false});
-
-  // Vào home ngay khi tải
-  window.addEventListener('load', enterHome);
+function play(a){a.currentTime=0;a.play().catch(()=>{});}
+function toast(msg){
+  const t=document.createElement('div');
+  t.className='toast'; t.innerHTML=msg;
+  document.body.appendChild(t);
+  setTimeout(()=>t.remove(),2600);
+}
+function shuffle(arr){return arr.map(x=>({x,r:Math.random()})).sort((a,b)=>a.r-b.r).map(o=>o.x);}
 </script>
 </body>
 </html>
-
-
