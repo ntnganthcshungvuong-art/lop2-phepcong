@@ -1,0 +1,2402 @@
+[
+  {
+    "q": "34 + 32 = ?",
+    "options": [
+      "73",
+      "56",
+      "66",
+      "62"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "47 + 1 = ?",
+    "options": [
+      "58",
+      "48",
+      "55",
+      "51"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "57 + 9 = ?",
+    "options": [
+      "56",
+      "61",
+      "59",
+      "66"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "15 + 74 = ?",
+    "options": [
+      "88",
+      "89",
+      "85",
+      "79"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "69 + 20 = ?",
+    "options": [
+      "89",
+      "99",
+      "83",
+      "94"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "27 + 19 = ?",
+    "options": [
+      "39",
+      "46",
+      "47",
+      "49"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "33 + 62 = ?",
+    "options": [
+      "88",
+      "94",
+      "95",
+      "91"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "52 + 14 = ?",
+    "options": [
+      "66",
+      "57",
+      "56",
+      "71"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "31 + 53 = ?",
+    "options": [
+      "84",
+      "92",
+      "89",
+      "80"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "3 + 20 = ?",
+    "options": [
+      "32",
+      "24",
+      "23",
+      "18"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "68 + 22 = ?",
+    "options": [
+      "90",
+      "95",
+      "82",
+      "84"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "49 + 33 = ?",
+    "options": [
+      "82",
+      "91",
+      "85",
+      "92"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "4 + 80 = ?",
+    "options": [
+      "80",
+      "90",
+      "92",
+      "84"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "99 + 0 = ?",
+    "options": [
+      "99",
+      "94",
+      "95",
+      "93"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "87 + 4 = ?",
+    "options": [
+      "97",
+      "91",
+      "95",
+      "88"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "96 + 3 = ?",
+    "options": [
+      "90",
+      "99",
+      "97",
+      "91"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "50 + 5 = ?",
+    "options": [
+      "53",
+      "45",
+      "55",
+      "60"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "60 + 39 = ?",
+    "options": [
+      "97",
+      "93",
+      "99",
+      "94"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "14 + 14 = ?",
+    "options": [
+      "24",
+      "25",
+      "28",
+      "19"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "86 + 9 = ?",
+    "options": [
+      "90",
+      "99",
+      "89",
+      "95"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "31 + 28 = ?",
+    "options": [
+      "51",
+      "59",
+      "58",
+      "65"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "22 + 47 = ?",
+    "options": [
+      "62",
+      "68",
+      "69",
+      "67"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "87 + 11 = ?",
+    "options": [
+      "99",
+      "98",
+      "96",
+      "94"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "9 + 13 = ?",
+    "options": [
+      "29",
+      "17",
+      "24",
+      "22"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "18 + 33 = ?",
+    "options": [
+      "44",
+      "43",
+      "51",
+      "53"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "45 + 20 = ?",
+    "options": [
+      "63",
+      "62",
+      "65",
+      "74"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "64 + 0 = ?",
+    "options": [
+      "65",
+      "73",
+      "64",
+      "56"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "81 + 2 = ?",
+    "options": [
+      "80",
+      "83",
+      "88",
+      "75"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "87 + 4 = ?",
+    "options": [
+      "86",
+      "83",
+      "91",
+      "94"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "54 + 33 = ?",
+    "options": [
+      "87",
+      "85",
+      "96",
+      "89"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "99 + 0 = ?",
+    "options": [
+      "90",
+      "97",
+      "99",
+      "92"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "4 + 13 = ?",
+    "options": [
+      "17",
+      "26",
+      "25",
+      "21"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "36 + 56 = ?",
+    "options": [
+      "97",
+      "96",
+      "92",
+      "99"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "96 + 2 = ?",
+    "options": [
+      "99",
+      "97",
+      "98",
+      "88"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "30 + 54 = ?",
+    "options": [
+      "85",
+      "84",
+      "79",
+      "81"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "30 + 27 = ?",
+    "options": [
+      "48",
+      "50",
+      "54",
+      "57"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "41 + 38 = ?",
+    "options": [
+      "79",
+      "82",
+      "80",
+      "89"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "7 + 85 = ?",
+    "options": [
+      "96",
+      "98",
+      "92",
+      "83"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "91 + 0 = ?",
+    "options": [
+      "91",
+      "98",
+      "83",
+      "88"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "34 + 4 = ?",
+    "options": [
+      "38",
+      "39",
+      "37",
+      "36"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "62 + 11 = ?",
+    "options": [
+      "73",
+      "82",
+      "69",
+      "64"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "92 + 6 = ?",
+    "options": [
+      "97",
+      "96",
+      "92",
+      "98"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "98 + 0 = ?",
+    "options": [
+      "99",
+      "98",
+      "94",
+      "91"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "10 + 29 = ?",
+    "options": [
+      "49",
+      "38",
+      "32",
+      "39"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "23 + 33 = ?",
+    "options": [
+      "59",
+      "48",
+      "56",
+      "55"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "32 + 60 = ?",
+    "options": [
+      "88",
+      "98",
+      "92",
+      "91"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "76 + 17 = ?",
+    "options": [
+      "97",
+      "88",
+      "93",
+      "84"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "27 + 5 = ?",
+    "options": [
+      "24",
+      "34",
+      "32",
+      "36"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "55 + 43 = ?",
+    "options": [
+      "94",
+      "98",
+      "90",
+      "91"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "87 + 12 = ?",
+    "options": [
+      "98",
+      "94",
+      "95",
+      "99"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "93 + 6 = ?",
+    "options": [
+      "99",
+      "93",
+      "97",
+      "89"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "51 + 40 = ?",
+    "options": [
+      "93",
+      "92",
+      "95",
+      "91"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "62 + 28 = ?",
+    "options": [
+      "90",
+      "82",
+      "96",
+      "89"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "60 + 17 = ?",
+    "options": [
+      "83",
+      "80",
+      "76",
+      "77"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "35 + 12 = ?",
+    "options": [
+      "49",
+      "41",
+      "51",
+      "47"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "27 + 59 = ?",
+    "options": [
+      "79",
+      "76",
+      "86",
+      "92"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "21 + 7 = ?",
+    "options": [
+      "28",
+      "32",
+      "23",
+      "29"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "26 + 5 = ?",
+    "options": [
+      "31",
+      "32",
+      "30",
+      "41"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "28 + 50 = ?",
+    "options": [
+      "79",
+      "78",
+      "76",
+      "85"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "60 + 1 = ?",
+    "options": [
+      "70",
+      "68",
+      "61",
+      "58"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "81 + 6 = ?",
+    "options": [
+      "87",
+      "95",
+      "92",
+      "90"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "64 + 22 = ?",
+    "options": [
+      "95",
+      "84",
+      "86",
+      "80"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "68 + 22 = ?",
+    "options": [
+      "86",
+      "89",
+      "96",
+      "90"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "49 + 40 = ?",
+    "options": [
+      "92",
+      "98",
+      "89",
+      "84"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "5 + 4 = ?",
+    "options": [
+      "19",
+      "10",
+      "9",
+      "2"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "83 + 10 = ?",
+    "options": [
+      "95",
+      "93",
+      "94",
+      "89"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "68 + 22 = ?",
+    "options": [
+      "89",
+      "96",
+      "90",
+      "99"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "46 + 49 = ?",
+    "options": [
+      "86",
+      "95",
+      "94",
+      "85"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "67 + 25 = ?",
+    "options": [
+      "92",
+      "87",
+      "97",
+      "83"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "73 + 26 = ?",
+    "options": [
+      "98",
+      "96",
+      "99",
+      "97"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "64 + 28 = ?",
+    "options": [
+      "99",
+      "96",
+      "92",
+      "87"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "75 + 17 = ?",
+    "options": [
+      "92",
+      "95",
+      "88",
+      "87"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "42 + 32 = ?",
+    "options": [
+      "66",
+      "71",
+      "76",
+      "74"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "83 + 6 = ?",
+    "options": [
+      "96",
+      "92",
+      "89",
+      "97"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "42 + 19 = ?",
+    "options": [
+      "60",
+      "66",
+      "53",
+      "61"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "30 + 41 = ?",
+    "options": [
+      "62",
+      "76",
+      "71",
+      "73"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "13 + 9 = ?",
+    "options": [
+      "18",
+      "29",
+      "22",
+      "24"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "3 + 68 = ?",
+    "options": [
+      "73",
+      "71",
+      "81",
+      "66"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "5 + 59 = ?",
+    "options": [
+      "64",
+      "70",
+      "58",
+      "69"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "88 + 1 = ?",
+    "options": [
+      "86",
+      "85",
+      "89",
+      "93"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "79 + 16 = ?",
+    "options": [
+      "89",
+      "99",
+      "87",
+      "95"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "23 + 30 = ?",
+    "options": [
+      "45",
+      "47",
+      "63",
+      "53"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "46 + 28 = ?",
+    "options": [
+      "81",
+      "79",
+      "77",
+      "74"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "36 + 0 = ?",
+    "options": [
+      "39",
+      "36",
+      "45",
+      "40"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "35 + 17 = ?",
+    "options": [
+      "42",
+      "43",
+      "52",
+      "62"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "23 + 29 = ?",
+    "options": [
+      "52",
+      "45",
+      "58",
+      "61"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "97 + 0 = ?",
+    "options": [
+      "93",
+      "98",
+      "89",
+      "97"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "15 + 7 = ?",
+    "options": [
+      "28",
+      "13",
+      "22",
+      "27"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "3 + 81 = ?",
+    "options": [
+      "87",
+      "91",
+      "93",
+      "84"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "98 + 1 = ?",
+    "options": [
+      "96",
+      "98",
+      "99",
+      "95"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "30 + 1 = ?",
+    "options": [
+      "28",
+      "33",
+      "35",
+      "31"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "90 + 4 = ?",
+    "options": [
+      "95",
+      "88",
+      "86",
+      "94"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "59 + 8 = ?",
+    "options": [
+      "65",
+      "70",
+      "61",
+      "67"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "71 + 26 = ?",
+    "options": [
+      "99",
+      "95",
+      "98",
+      "97"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "87 + 12 = ?",
+    "options": [
+      "97",
+      "99",
+      "96",
+      "93"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "54 + 25 = ?",
+    "options": [
+      "79",
+      "77",
+      "82",
+      "75"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "33 + 42 = ?",
+    "options": [
+      "75",
+      "72",
+      "80",
+      "81"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "24 + 25 = ?",
+    "options": [
+      "48",
+      "51",
+      "49",
+      "41"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "72 + 27 = ?",
+    "options": [
+      "96",
+      "93",
+      "97",
+      "99"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "9 + 83 = ?",
+    "options": [
+      "90",
+      "83",
+      "95",
+      "92"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➕"
+  },
+  {
+    "q": "35 - 23 = ?",
+    "options": [
+      "9",
+      "21",
+      "13",
+      "12"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "49 - 40 = ?",
+    "options": [
+      "11",
+      "6",
+      "3",
+      "9"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "88 - 8 = ?",
+    "options": [
+      "90",
+      "85",
+      "80",
+      "76"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "67 - 61 = ?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "11"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "87 - 47 = ?",
+    "options": [
+      "36",
+      "39",
+      "40",
+      "49"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "92 - 85 = ?",
+    "options": [
+      "7",
+      "4",
+      "9",
+      "15"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "78 - 16 = ?",
+    "options": [
+      "62",
+      "70",
+      "66",
+      "60"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "75 - 34 = ?",
+    "options": [
+      "46",
+      "41",
+      "43",
+      "44"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "83 - 18 = ?",
+    "options": [
+      "65",
+      "75",
+      "64",
+      "55"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "65 - 62 = ?",
+    "options": [
+      "7",
+      "5",
+      "3",
+      "13"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "56 - 47 = ?",
+    "options": [
+      "9",
+      "14",
+      "10",
+      "11"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "62 - 60 = ?",
+    "options": [
+      "2",
+      "11",
+      "12",
+      "0"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "66 - 48 = ?",
+    "options": [
+      "19",
+      "18",
+      "28",
+      "17"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "17 - 5 = ?",
+    "options": [
+      "20",
+      "19",
+      "8",
+      "12"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "78 - 25 = ?",
+    "options": [
+      "59",
+      "52",
+      "43",
+      "53"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "54 - 34 = ?",
+    "options": [
+      "20",
+      "26",
+      "23",
+      "18"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "12 - 9 = ?",
+    "options": [
+      "2",
+      "10",
+      "3",
+      "9"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "40 - 40 = ?",
+    "options": [
+      "0",
+      "5",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "77 - 71 = ?",
+    "options": [
+      "0",
+      "8",
+      "4",
+      "6"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "26 - 8 = ?",
+    "options": [
+      "22",
+      "18",
+      "13",
+      "14"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "59 - 12 = ?",
+    "options": [
+      "47",
+      "49",
+      "57",
+      "45"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "30 - 15 = ?",
+    "options": [
+      "9",
+      "13",
+      "17",
+      "15"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "82 - 48 = ?",
+    "options": [
+      "37",
+      "27",
+      "24",
+      "34"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "48 - 25 = ?",
+    "options": [
+      "23",
+      "24",
+      "16",
+      "30"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "84 - 27 = ?",
+    "options": [
+      "57",
+      "64",
+      "62",
+      "63"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "96 - 21 = ?",
+    "options": [
+      "85",
+      "80",
+      "75",
+      "79"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "81 - 3 = ?",
+    "options": [
+      "75",
+      "88",
+      "78",
+      "76"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "65 - 34 = ?",
+    "options": [
+      "30",
+      "37",
+      "25",
+      "31"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "68 - 60 = ?",
+    "options": [
+      "10",
+      "15",
+      "8",
+      "3"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "73 - 29 = ?",
+    "options": [
+      "36",
+      "44",
+      "34",
+      "49"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "4 - 2 = ?",
+    "options": [
+      "5",
+      "2",
+      "1",
+      "9"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "90 - 33 = ?",
+    "options": [
+      "57",
+      "66",
+      "59",
+      "52"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "86 - 32 = ?",
+    "options": [
+      "46",
+      "52",
+      "54",
+      "51"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "17 - 4 = ?",
+    "options": [
+      "13",
+      "8",
+      "9",
+      "15"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "58 - 34 = ?",
+    "options": [
+      "24",
+      "28",
+      "25",
+      "14"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "60 - 9 = ?",
+    "options": [
+      "41",
+      "48",
+      "44",
+      "51"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "52 - 52 = ?",
+    "options": [
+      "0",
+      "1",
+      "7",
+      "10"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "8 - 8 = ?",
+    "options": [
+      "9",
+      "7",
+      "1",
+      "0"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "87 - 37 = ?",
+    "options": [
+      "46",
+      "44",
+      "49",
+      "50"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "13 - 0 = ?",
+    "options": [
+      "17",
+      "16",
+      "9",
+      "13"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "37 - 25 = ?",
+    "options": [
+      "10",
+      "22",
+      "12",
+      "16"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "93 - 83 = ?",
+    "options": [
+      "20",
+      "9",
+      "15",
+      "10"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "13 - 0 = ?",
+    "options": [
+      "13",
+      "12",
+      "9",
+      "6"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "27 - 8 = ?",
+    "options": [
+      "19",
+      "9",
+      "23",
+      "17"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "91 - 81 = ?",
+    "options": [
+      "1",
+      "11",
+      "10",
+      "9"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "16 - 15 = ?",
+    "options": [
+      "3",
+      "11",
+      "1",
+      "7"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "52 - 6 = ?",
+    "options": [
+      "36",
+      "41",
+      "46",
+      "55"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "99 - 91 = ?",
+    "options": [
+      "7",
+      "8",
+      "3",
+      "17"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "78 - 35 = ?",
+    "options": [
+      "35",
+      "45",
+      "44",
+      "43"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "0 - 0 = ?",
+    "options": [
+      "8",
+      "3",
+      "6",
+      "0"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "26 - 4 = ?",
+    "options": [
+      "22",
+      "31",
+      "15",
+      "32"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "6 - 3 = ?",
+    "options": [
+      "11",
+      "8",
+      "3",
+      "10"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "28 - 6 = ?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "22"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "67 - 49 = ?",
+    "options": [
+      "20",
+      "18",
+      "9",
+      "11"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "45 - 6 = ?",
+    "options": [
+      "39",
+      "48",
+      "31",
+      "46"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "54 - 44 = ?",
+    "options": [
+      "10",
+      "17",
+      "13",
+      "3"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "5 - 5 = ?",
+    "options": [
+      "9",
+      "1",
+      "0",
+      "10"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "23 - 6 = ?",
+    "options": [
+      "10",
+      "17",
+      "26",
+      "20"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "69 - 26 = ?",
+    "options": [
+      "43",
+      "35",
+      "36",
+      "42"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "6 - 1 = ?",
+    "options": [
+      "12",
+      "15",
+      "5",
+      "3"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "94 - 55 = ?",
+    "options": [
+      "36",
+      "39",
+      "43",
+      "34"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "88 - 27 = ?",
+    "options": [
+      "63",
+      "58",
+      "57",
+      "61"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "10 - 0 = ?",
+    "options": [
+      "10",
+      "3",
+      "15",
+      "5"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "72 - 67 = ?",
+    "options": [
+      "6",
+      "9",
+      "10",
+      "5"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "54 - 52 = ?",
+    "options": [
+      "2",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "82 - 75 = ?",
+    "options": [
+      "7",
+      "3",
+      "13",
+      "2"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "14 - 12 = ?",
+    "options": [
+      "8",
+      "2",
+      "0",
+      "3"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "99 - 50 = ?",
+    "options": [
+      "53",
+      "54",
+      "58",
+      "49"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "24 - 7 = ?",
+    "options": [
+      "12",
+      "17",
+      "11",
+      "21"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "53 - 33 = ?",
+    "options": [
+      "26",
+      "21",
+      "22",
+      "20"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "37 - 25 = ?",
+    "options": [
+      "2",
+      "17",
+      "12",
+      "22"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "81 - 34 = ?",
+    "options": [
+      "47",
+      "46",
+      "48",
+      "45"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "11 - 2 = ?",
+    "options": [
+      "0",
+      "9",
+      "6",
+      "3"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "20 - 12 = ?",
+    "options": [
+      "5",
+      "10",
+      "8",
+      "7"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "30 - 10 = ?",
+    "options": [
+      "20",
+      "15",
+      "11",
+      "10"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "57 - 16 = ?",
+    "options": [
+      "37",
+      "34",
+      "41",
+      "46"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "28 - 25 = ?",
+    "options": [
+      "0",
+      "7",
+      "2",
+      "3"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "40 - 28 = ?",
+    "options": [
+      "14",
+      "9",
+      "5",
+      "12"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "34 - 32 = ?",
+    "options": [
+      "7",
+      "10",
+      "2",
+      "4"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "14 - 13 = ?",
+    "options": [
+      "5",
+      "1",
+      "10",
+      "9"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "38 - 8 = ?",
+    "options": [
+      "30",
+      "22",
+      "25",
+      "40"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "32 - 0 = ?",
+    "options": [
+      "32",
+      "23",
+      "27",
+      "35"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "70 - 59 = ?",
+    "options": [
+      "11",
+      "3",
+      "2",
+      "19"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "96 - 7 = ?",
+    "options": [
+      "87",
+      "82",
+      "89",
+      "99"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "77 - 2 = ?",
+    "options": [
+      "68",
+      "84",
+      "67",
+      "75"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "44 - 7 = ?",
+    "options": [
+      "33",
+      "46",
+      "45",
+      "37"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "17 - 17 = ?",
+    "options": [
+      "7",
+      "0",
+      "5",
+      "10"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "2 - 0 = ?",
+    "options": [
+      "2",
+      "10",
+      "4",
+      "5"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "74 - 25 = ?",
+    "options": [
+      "50",
+      "59",
+      "45",
+      "49"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "40 - 21 = ?",
+    "options": [
+      "13",
+      "25",
+      "19",
+      "23"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "79 - 18 = ?",
+    "options": [
+      "61",
+      "71",
+      "60",
+      "56"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "42 - 24 = ?",
+    "options": [
+      "18",
+      "25",
+      "15",
+      "27"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "26 - 6 = ?",
+    "options": [
+      "20",
+      "18",
+      "11",
+      "28"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "38 - 8 = ?",
+    "options": [
+      "30",
+      "40",
+      "20",
+      "34"
+    ],
+    "answer": 0,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "34 - 26 = ?",
+    "options": [
+      "15",
+      "17",
+      "8",
+      "18"
+    ],
+    "answer": 2,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "55 - 37 = ?",
+    "options": [
+      "17",
+      "18",
+      "23",
+      "26"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "93 - 19 = ?",
+    "options": [
+      "84",
+      "74",
+      "67",
+      "71"
+    ],
+    "answer": 1,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "95 - 90 = ?",
+    "options": [
+      "14",
+      "1",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "30 - 11 = ?",
+    "options": [
+      "9",
+      "28",
+      "16",
+      "19"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  },
+  {
+    "q": "93 - 32 = ?",
+    "options": [
+      "53",
+      "65",
+      "70",
+      "61"
+    ],
+    "answer": 3,
+    "type": "multiple",
+    "emoji": "➖"
+  }
+]

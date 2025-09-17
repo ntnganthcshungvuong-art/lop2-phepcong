@@ -1,0 +1,4402 @@
+[
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Không quay",
+      "Mặt trăng",
+      "Mặt trời",
+      "Sao Hỏa"
+    ],
+    "answer": 2,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "đắng",
+      "chua",
+      "mặn",
+      "ngọt"
+    ],
+    "answer": 2,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Hơi nước",
+      "Đất",
+      "Đá",
+      "Khói"
+    ],
+    "answer": 0,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Thu",
+      "Đông",
+      "Xuân",
+      "Hạ"
+    ],
+    "answer": 1,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Gan",
+      "Dạ dày",
+      "Phổi",
+      "Tim"
+    ],
+    "answer": 2,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Gà",
+      "Lợn",
+      "Vịt",
+      "Bò"
+    ],
+    "answer": 3,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Huế",
+      "TP.HCM",
+      "Đà Nẵng",
+      "Hà Nội"
+    ],
+    "answer": 3,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Đất",
+      "Khói",
+      "Đá",
+      "Hơi nước"
+    ],
+    "answer": 3,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim én",
+      "Đà điểu",
+      "Chim sâu",
+      "Chim sẻ"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Xuân",
+      "Đông",
+      "Thu",
+      "Hạ"
+    ],
+    "answer": 3,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Gà",
+      "Mèo",
+      "Voi",
+      "Chó"
+    ],
+    "answer": 2,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Đông",
+      "Tây",
+      "Nam"
+    ],
+    "answer": 2,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Cá",
+      "Chó",
+      "Mèo",
+      "Chim"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Mưa",
+      "Gió",
+      "Chớp",
+      "Sấm"
+    ],
+    "answer": 0,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Đà Nẵng",
+      "TP.HCM",
+      "Huế",
+      "Hà Nội"
+    ],
+    "answer": 3,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "TP.HCM",
+      "Huế",
+      "Hà Nội",
+      "Đà Nẵng"
+    ],
+    "answer": 2,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Huế",
+      "Đà Nẵng",
+      "TP.HCM",
+      "Hà Nội"
+    ],
+    "answer": 3,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Mèo",
+      "Chó",
+      "Cá",
+      "Chim"
+    ],
+    "answer": 2,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim sâu",
+      "Đà điểu",
+      "Chim én",
+      "Chim sẻ"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Sa mạc",
+      "Đồi núi",
+      "Biển",
+      "Đồng bằng"
+    ],
+    "answer": 3,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Đất",
+      "Đá",
+      "Hơi nước",
+      "Khói"
+    ],
+    "answer": 2,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Xuân",
+      "Thu",
+      "Đông",
+      "Hạ"
+    ],
+    "answer": 3,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Hạ",
+      "Đông",
+      "Xuân",
+      "Thu"
+    ],
+    "answer": 0,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Mèo",
+      "Chim",
+      "Cá",
+      "Chó"
+    ],
+    "answer": 2,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Mèo",
+      "Ếch",
+      "Chó",
+      "Bò"
+    ],
+    "answer": 1,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Cá",
+      "Mèo",
+      "Chó",
+      "Chim"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Mặt trăng",
+      "Sao Hỏa",
+      "Mặt trời",
+      "Không quay"
+    ],
+    "answer": 2,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Gà",
+      "Lợn",
+      "Vịt",
+      "Bò"
+    ],
+    "answer": 3,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Sao Hỏa",
+      "Mặt trời",
+      "Không quay",
+      "Mặt trăng"
+    ],
+    "answer": 1,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Chỉ nước",
+      "Chỉ ánh sáng",
+      "Không cần gì",
+      "Nước và ánh sáng"
+    ],
+    "answer": 3,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Mèo",
+      "Cá",
+      "Chó",
+      "Chim"
+    ],
+    "answer": 1,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chó",
+      "Cá",
+      "Mèo",
+      "Chim"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "mặn",
+      "chua",
+      "đắng",
+      "ngọt"
+    ],
+    "answer": 0,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Đà Nẵng",
+      "Huế",
+      "Hà Nội",
+      "TP.HCM"
+    ],
+    "answer": 2,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Nam",
+      "Tây",
+      "Đông"
+    ],
+    "answer": 2,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Gan",
+      "Phổi",
+      "Tim",
+      "Dạ dày"
+    ],
+    "answer": 1,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Huế",
+      "TP.HCM",
+      "Hà Nội",
+      "Đà Nẵng"
+    ],
+    "answer": 2,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Mèo",
+      "Chó",
+      "Gà",
+      "Voi"
+    ],
+    "answer": 3,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Gà",
+      "Vịt",
+      "Bò",
+      "Lợn"
+    ],
+    "answer": 2,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Cá",
+      "Chim",
+      "Mèo",
+      "Chó"
+    ],
+    "answer": 0,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chó",
+      "Chim",
+      "Cá",
+      "Mèo"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Phổi",
+      "Gan",
+      "Dạ dày",
+      "Tim"
+    ],
+    "answer": 0,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Chỉ ánh sáng",
+      "Nước và ánh sáng",
+      "Không cần gì",
+      "Chỉ nước"
+    ],
+    "answer": 1,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Nam",
+      "Bắc",
+      "Đông",
+      "Tây"
+    ],
+    "answer": 3,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Đông",
+      "Hạ",
+      "Xuân",
+      "Thu"
+    ],
+    "answer": 0,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Mèo",
+      "Cá",
+      "Chim",
+      "Chó"
+    ],
+    "answer": 2,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Mèo",
+      "Chim",
+      "Chó",
+      "Cá"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Hạ",
+      "Xuân",
+      "Thu",
+      "Đông"
+    ],
+    "answer": 0,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Bò",
+      "Vịt",
+      "Gà",
+      "Lợn"
+    ],
+    "answer": 0,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Tây",
+      "Đông",
+      "Nam",
+      "Bắc"
+    ],
+    "answer": 1,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Gà",
+      "Voi",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 1,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Biển",
+      "Đồng bằng",
+      "Đồi núi",
+      "Sa mạc"
+    ],
+    "answer": 1,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Sấm",
+      "Gió",
+      "Chớp",
+      "Mưa"
+    ],
+    "answer": 3,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Bò",
+      "Mèo",
+      "Chó",
+      "Ếch"
+    ],
+    "answer": 3,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Chó",
+      "Gà",
+      "Mèo",
+      "Voi"
+    ],
+    "answer": 3,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Sấm",
+      "Chớp",
+      "Mưa",
+      "Gió"
+    ],
+    "answer": 2,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "đắng",
+      "mặn",
+      "chua",
+      "ngọt"
+    ],
+    "answer": 1,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Đông",
+      "Tây",
+      "Nam",
+      "Bắc"
+    ],
+    "answer": 0,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Cá",
+      "Chim",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Dạ dày",
+      "Tim",
+      "Phổi",
+      "Gan"
+    ],
+    "answer": 2,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chim",
+      "Cá",
+      "Mèo",
+      "Chó"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Nam",
+      "Tây",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Bò",
+      "Mèo",
+      "Chó",
+      "Ếch"
+    ],
+    "answer": 3,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Không cần gì",
+      "Nước và ánh sáng",
+      "Chỉ ánh sáng",
+      "Chỉ nước"
+    ],
+    "answer": 1,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "TP.HCM",
+      "Đà Nẵng",
+      "Huế",
+      "Hà Nội"
+    ],
+    "answer": 3,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Nam",
+      "Đông",
+      "Tây"
+    ],
+    "answer": 3,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Gan",
+      "Dạ dày",
+      "Tim",
+      "Phổi"
+    ],
+    "answer": 3,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Cá",
+      "Mèo",
+      "Chó",
+      "Chim"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chó",
+      "Chim",
+      "Cá",
+      "Mèo"
+    ],
+    "answer": 2,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 1,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Hà Nội",
+      "TP.HCM",
+      "Đà Nẵng",
+      "Huế"
+    ],
+    "answer": 0,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Chỉ ánh sáng",
+      "Chỉ nước",
+      "Không cần gì",
+      "Nước và ánh sáng"
+    ],
+    "answer": 3,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Sao Hỏa",
+      "Mặt trời",
+      "Mặt trăng",
+      "Không quay"
+    ],
+    "answer": 1,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": 0,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Thu",
+      "Hạ",
+      "Đông",
+      "Xuân"
+    ],
+    "answer": 1,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Thu",
+      "Xuân",
+      "Hạ",
+      "Đông"
+    ],
+    "answer": 2,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Thu",
+      "Xuân",
+      "Đông",
+      "Hạ"
+    ],
+    "answer": 3,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Hạ",
+      "Đông",
+      "Thu",
+      "Xuân"
+    ],
+    "answer": 1,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Lợn",
+      "Vịt",
+      "Gà",
+      "Bò"
+    ],
+    "answer": 3,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Đà điểu",
+      "Chim sâu",
+      "Chim én",
+      "Chim sẻ"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Gió",
+      "Mưa",
+      "Sấm",
+      "Chớp"
+    ],
+    "answer": 1,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "đắng",
+      "chua",
+      "mặn",
+      "ngọt"
+    ],
+    "answer": 2,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Voi",
+      "Gà",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 0,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "Huế",
+      "TP.HCM"
+    ],
+    "answer": 0,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Tim",
+      "Phổi",
+      "Gan",
+      "Dạ dày"
+    ],
+    "answer": 1,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "chua",
+      "mặn",
+      "đắng",
+      "ngọt"
+    ],
+    "answer": 1,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": 1,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Cá",
+      "Chim",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 0,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chim",
+      "Mèo",
+      "Chó",
+      "Cá"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Mèo",
+      "Chim",
+      "Chó",
+      "Cá"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Mèo",
+      "Chó",
+      "Chim",
+      "Cá"
+    ],
+    "answer": 2,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Hà Nội",
+      "Huế",
+      "TP.HCM",
+      "Đà Nẵng"
+    ],
+    "answer": 0,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Không quay",
+      "Sao Hỏa",
+      "Mặt trời",
+      "Mặt trăng"
+    ],
+    "answer": 2,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "TP.HCM",
+      "Đà Nẵng",
+      "Hà Nội",
+      "Huế"
+    ],
+    "answer": 2,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Phổi",
+      "Gan",
+      "Dạ dày",
+      "Tim"
+    ],
+    "answer": 0,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Thu",
+      "Hạ",
+      "Xuân",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Mèo",
+      "Cá",
+      "Chó",
+      "Chim"
+    ],
+    "answer": 1,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Đông",
+      "Tây",
+      "Bắc",
+      "Nam"
+    ],
+    "answer": 0,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": 1,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Đồi núi",
+      "Đồng bằng",
+      "Sa mạc",
+      "Biển"
+    ],
+    "answer": 1,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "chua",
+      "đắng",
+      "ngọt",
+      "mặn"
+    ],
+    "answer": 3,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Gan",
+      "Tim",
+      "Phổi",
+      "Dạ dày"
+    ],
+    "answer": 2,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Tây",
+      "Nam",
+      "Đông"
+    ],
+    "answer": 1,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Không cần gì",
+      "Chỉ ánh sáng",
+      "Nước và ánh sáng",
+      "Chỉ nước"
+    ],
+    "answer": 2,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim sẻ",
+      "Đà điểu",
+      "Chim sâu",
+      "Chim én"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Mèo",
+      "Chó",
+      "Ếch",
+      "Bò"
+    ],
+    "answer": 2,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "TP.HCM",
+      "Đà Nẵng",
+      "Huế",
+      "Hà Nội"
+    ],
+    "answer": 3,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Hơi nước",
+      "Đá",
+      "Đất",
+      "Khói"
+    ],
+    "answer": 0,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Sao Hỏa",
+      "Mặt trời",
+      "Mặt trăng",
+      "Không quay"
+    ],
+    "answer": 1,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "mặn",
+      "đắng",
+      "ngọt",
+      "chua"
+    ],
+    "answer": 0,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Dạ dày",
+      "Tim",
+      "Gan",
+      "Phổi"
+    ],
+    "answer": 3,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Sấm",
+      "Mưa",
+      "Gió",
+      "Chớp"
+    ],
+    "answer": 1,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Gió",
+      "Sấm",
+      "Mưa",
+      "Chớp"
+    ],
+    "answer": 2,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Cá",
+      "Mèo",
+      "Chim",
+      "Chó"
+    ],
+    "answer": 0,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Bò",
+      "Chó",
+      "Ếch",
+      "Mèo"
+    ],
+    "answer": 2,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Đông",
+      "Thu",
+      "Xuân",
+      "Hạ"
+    ],
+    "answer": 3,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Mưa",
+      "Chớp",
+      "Sấm",
+      "Gió"
+    ],
+    "answer": 0,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Biển",
+      "Đồi núi",
+      "Đồng bằng",
+      "Sa mạc"
+    ],
+    "answer": 2,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Hơi nước",
+      "Khói",
+      "Đá",
+      "Đất"
+    ],
+    "answer": 0,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Tây",
+      "Đông",
+      "Bắc",
+      "Nam"
+    ],
+    "answer": 0,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Đông",
+      "Nam",
+      "Bắc",
+      "Tây"
+    ],
+    "answer": 0,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Sấm",
+      "Mưa",
+      "Chớp",
+      "Gió"
+    ],
+    "answer": 1,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Nam",
+      "Tây",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Hạ",
+      "Xuân",
+      "Đông",
+      "Thu"
+    ],
+    "answer": 0,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Đồng bằng",
+      "Đồi núi",
+      "Sa mạc",
+      "Biển"
+    ],
+    "answer": 0,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Xuân",
+      "Đông",
+      "Thu",
+      "Hạ"
+    ],
+    "answer": 1,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Không cần gì",
+      "Nước và ánh sáng",
+      "Chỉ ánh sáng",
+      "Chỉ nước"
+    ],
+    "answer": 1,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chim",
+      "Cá",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 1,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Sao Hỏa",
+      "Không quay",
+      "Mặt trời",
+      "Mặt trăng"
+    ],
+    "answer": 2,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Mặt trời",
+      "Mặt trăng",
+      "Sao Hỏa",
+      "Không quay"
+    ],
+    "answer": 0,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Tây",
+      "Đông",
+      "Nam"
+    ],
+    "answer": 1,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Bò",
+      "Ếch",
+      "Mèo",
+      "Chó"
+    ],
+    "answer": 1,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Đông",
+      "Thu",
+      "Hạ",
+      "Xuân"
+    ],
+    "answer": 0,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Hà Nội",
+      "TP.HCM",
+      "Đà Nẵng",
+      "Huế"
+    ],
+    "answer": 0,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Xuân",
+      "Thu",
+      "Đông",
+      "Hạ"
+    ],
+    "answer": 2,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Cá",
+      "Chim",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 0,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Gió",
+      "Chớp",
+      "Mưa",
+      "Sấm"
+    ],
+    "answer": 2,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Lợn",
+      "Bò",
+      "Vịt",
+      "Gà"
+    ],
+    "answer": 1,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Lợn",
+      "Vịt",
+      "Gà",
+      "Bò"
+    ],
+    "answer": 3,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Xuân",
+      "Thu",
+      "Đông",
+      "Hạ"
+    ],
+    "answer": 3,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": 0,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Cá",
+      "Chó",
+      "Mèo",
+      "Chim"
+    ],
+    "answer": 0,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Cá",
+      "Mèo",
+      "Chim",
+      "Chó"
+    ],
+    "answer": 2,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Gà",
+      "Voi",
+      "Mèo",
+      "Chó"
+    ],
+    "answer": 1,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Chó",
+      "Gà",
+      "Voi",
+      "Mèo"
+    ],
+    "answer": 2,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Mèo",
+      "Chim",
+      "Chó",
+      "Cá"
+    ],
+    "answer": 3,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Đông",
+      "Thu",
+      "Xuân",
+      "Hạ"
+    ],
+    "answer": 3,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Nam",
+      "Tây",
+      "Đông"
+    ],
+    "answer": 2,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Mèo",
+      "Bò",
+      "Chó",
+      "Ếch"
+    ],
+    "answer": 3,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Chỉ ánh sáng",
+      "Chỉ nước",
+      "Không cần gì",
+      "Nước và ánh sáng"
+    ],
+    "answer": 3,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Tây",
+      "Nam",
+      "Bắc",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Đồi núi",
+      "Biển",
+      "Đồng bằng",
+      "Sa mạc"
+    ],
+    "answer": 2,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Nam",
+      "Tây",
+      "Bắc",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Biển",
+      "Đồng bằng",
+      "Sa mạc",
+      "Đồi núi"
+    ],
+    "answer": 1,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Bò",
+      "Ếch",
+      "Mèo",
+      "Chó"
+    ],
+    "answer": 1,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Xuân",
+      "Thu",
+      "Hạ",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Gà",
+      "Lợn",
+      "Bò",
+      "Vịt"
+    ],
+    "answer": 2,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Đông",
+      "Thu",
+      "Hạ",
+      "Xuân"
+    ],
+    "answer": 0,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Sao Hỏa",
+      "Mặt trời",
+      "Không quay",
+      "Mặt trăng"
+    ],
+    "answer": 1,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chim",
+      "Mèo",
+      "Cá",
+      "Chó"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Vịt",
+      "Bò",
+      "Lợn",
+      "Gà"
+    ],
+    "answer": 1,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Huế",
+      "TP.HCM",
+      "Đà Nẵng",
+      "Hà Nội"
+    ],
+    "answer": 3,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Ếch",
+      "Mèo",
+      "Bò",
+      "Chó"
+    ],
+    "answer": 0,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "chua",
+      "ngọt",
+      "đắng",
+      "mặn"
+    ],
+    "answer": 3,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Phổi",
+      "Tim",
+      "Gan",
+      "Dạ dày"
+    ],
+    "answer": 0,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Voi",
+      "Mèo",
+      "Chó",
+      "Gà"
+    ],
+    "answer": 0,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Lợn",
+      "Vịt",
+      "Gà",
+      "Bò"
+    ],
+    "answer": 3,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Mèo",
+      "Cá",
+      "Chó",
+      "Chim"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Hạ",
+      "Đông",
+      "Xuân",
+      "Thu"
+    ],
+    "answer": 1,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Đông",
+      "Hạ",
+      "Thu",
+      "Xuân"
+    ],
+    "answer": 0,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Sa mạc",
+      "Biển",
+      "Đồi núi",
+      "Đồng bằng"
+    ],
+    "answer": 3,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Đông",
+      "Xuân",
+      "Hạ",
+      "Thu"
+    ],
+    "answer": 2,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Gà",
+      "Vịt",
+      "Bò",
+      "Lợn"
+    ],
+    "answer": 2,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Mưa",
+      "Sấm",
+      "Gió",
+      "Chớp"
+    ],
+    "answer": 0,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Hơi nước",
+      "Đá",
+      "Khói",
+      "Đất"
+    ],
+    "answer": 0,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Thu",
+      "Hạ",
+      "Xuân",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 1,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Tây",
+      "Bắc",
+      "Nam",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Xuân",
+      "Hạ",
+      "Thu",
+      "Đông"
+    ],
+    "answer": 1,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chim",
+      "Cá",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chó",
+      "Cá",
+      "Chim",
+      "Mèo"
+    ],
+    "answer": 1,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Thu",
+      "Hạ",
+      "Xuân",
+      "Đông"
+    ],
+    "answer": 1,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "mặn",
+      "chua",
+      "ngọt",
+      "đắng"
+    ],
+    "answer": 0,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim sẻ",
+      "Đà điểu",
+      "Chim én",
+      "Chim sâu"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Nam",
+      "Đông",
+      "Tây",
+      "Bắc"
+    ],
+    "answer": 2,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Phổi",
+      "Gan",
+      "Tim",
+      "Dạ dày"
+    ],
+    "answer": 0,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Tim",
+      "Dạ dày",
+      "Gan",
+      "Phổi"
+    ],
+    "answer": 3,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim sẻ",
+      "Đà điểu",
+      "Chim én",
+      "Chim sâu"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Đất",
+      "Khói",
+      "Hơi nước",
+      "Đá"
+    ],
+    "answer": 2,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim sâu",
+      "Đà điểu",
+      "Chim sẻ",
+      "Chim én"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Bò",
+      "Mèo",
+      "Chó",
+      "Ếch"
+    ],
+    "answer": 3,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": 0,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "ngọt",
+      "đắng",
+      "mặn",
+      "chua"
+    ],
+    "answer": 2,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Đồi núi",
+      "Sa mạc",
+      "Biển",
+      "Đồng bằng"
+    ],
+    "answer": 3,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Không quay",
+      "Mặt trăng",
+      "Sao Hỏa",
+      "Mặt trời"
+    ],
+    "answer": 3,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Đá",
+      "Đất",
+      "Khói",
+      "Hơi nước"
+    ],
+    "answer": 3,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Sao Hỏa",
+      "Mặt trời",
+      "Mặt trăng",
+      "Không quay"
+    ],
+    "answer": 1,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Mèo",
+      "Gà",
+      "Voi",
+      "Chó"
+    ],
+    "answer": 2,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Sa mạc",
+      "Biển",
+      "Đồi núi",
+      "Đồng bằng"
+    ],
+    "answer": 3,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "chua",
+      "đắng",
+      "ngọt",
+      "mặn"
+    ],
+    "answer": 3,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Tây",
+      "Đông",
+      "Nam"
+    ],
+    "answer": 2,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Sấm",
+      "Mưa",
+      "Gió",
+      "Chớp"
+    ],
+    "answer": 1,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Đồi núi",
+      "Đồng bằng",
+      "Sa mạc",
+      "Biển"
+    ],
+    "answer": 1,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "Huế",
+      "TP.HCM"
+    ],
+    "answer": 0,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chim",
+      "Mèo",
+      "Cá",
+      "Chó"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Gà",
+      "Bò",
+      "Vịt",
+      "Lợn"
+    ],
+    "answer": 1,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Đà điểu",
+      "Chim sâu",
+      "Chim én",
+      "Chim sẻ"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Tây",
+      "Đông",
+      "Bắc",
+      "Nam"
+    ],
+    "answer": 0,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Chó",
+      "Gà",
+      "Mèo",
+      "Voi"
+    ],
+    "answer": 3,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Biển",
+      "Đồng bằng",
+      "Sa mạc",
+      "Đồi núi"
+    ],
+    "answer": 1,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Đồi núi",
+      "Đồng bằng",
+      "Sa mạc",
+      "Biển"
+    ],
+    "answer": 1,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Không quay",
+      "Mặt trăng",
+      "Sao Hỏa",
+      "Mặt trời"
+    ],
+    "answer": 3,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Ếch",
+      "Bò",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 0,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Bò",
+      "Vịt",
+      "Gà",
+      "Lợn"
+    ],
+    "answer": 0,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Chó",
+      "Ếch",
+      "Mèo",
+      "Bò"
+    ],
+    "answer": 1,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Đông",
+      "Bắc",
+      "Nam",
+      "Tây"
+    ],
+    "answer": 0,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Bò",
+      "Vịt",
+      "Gà",
+      "Lợn"
+    ],
+    "answer": 0,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Sa mạc",
+      "Biển",
+      "Đồi núi",
+      "Đồng bằng"
+    ],
+    "answer": 3,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Mặt trăng",
+      "Sao Hỏa",
+      "Mặt trời",
+      "Không quay"
+    ],
+    "answer": 2,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Cá",
+      "Chim",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 0,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Đà Nẵng",
+      "TP.HCM",
+      "Huế",
+      "Hà Nội"
+    ],
+    "answer": 3,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Chớp",
+      "Mưa",
+      "Gió",
+      "Sấm"
+    ],
+    "answer": 1,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Chỉ ánh sáng",
+      "Nước và ánh sáng",
+      "Không cần gì",
+      "Chỉ nước"
+    ],
+    "answer": 1,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Thu",
+      "Hạ",
+      "Đông",
+      "Xuân"
+    ],
+    "answer": 2,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Voi",
+      "Gà",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 0,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim sâu",
+      "Đà điểu",
+      "Chim sẻ",
+      "Chim én"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Vịt",
+      "Bò",
+      "Lợn",
+      "Gà"
+    ],
+    "answer": 1,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Đông",
+      "Tây",
+      "Nam"
+    ],
+    "answer": 1,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Đông",
+      "Nam",
+      "Tây",
+      "Bắc"
+    ],
+    "answer": 2,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Hạ",
+      "Xuân",
+      "Đông",
+      "Thu"
+    ],
+    "answer": 0,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Thu",
+      "Hạ",
+      "Xuân",
+      "Đông"
+    ],
+    "answer": 1,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Đá",
+      "Đất",
+      "Hơi nước",
+      "Khói"
+    ],
+    "answer": 2,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Biển",
+      "Sa mạc",
+      "Đồi núi",
+      "Đồng bằng"
+    ],
+    "answer": 3,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP.HCM",
+      "Huế"
+    ],
+    "answer": 0,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Chó",
+      "Mèo",
+      "Voi",
+      "Gà"
+    ],
+    "answer": 2,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Hạ",
+      "Thu",
+      "Đông",
+      "Xuân"
+    ],
+    "answer": 2,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Dạ dày",
+      "Phổi",
+      "Tim",
+      "Gan"
+    ],
+    "answer": 1,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": 1,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Huế",
+      "Hà Nội",
+      "Đà Nẵng",
+      "TP.HCM"
+    ],
+    "answer": 1,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Nước và ánh sáng",
+      "Chỉ ánh sáng",
+      "Không cần gì",
+      "Chỉ nước"
+    ],
+    "answer": 0,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Mặt trăng",
+      "Không quay",
+      "Mặt trời",
+      "Sao Hỏa"
+    ],
+    "answer": 2,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Tây",
+      "Nam",
+      "Bắc",
+      "Đông"
+    ],
+    "answer": 0,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "ngọt",
+      "mặn",
+      "đắng",
+      "chua"
+    ],
+    "answer": 1,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Đà điểu",
+      "Chim sâu",
+      "Chim én",
+      "Chim sẻ"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Đông",
+      "Nam",
+      "Tây",
+      "Bắc"
+    ],
+    "answer": 0,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Thu",
+      "Hạ",
+      "Đông",
+      "Xuân"
+    ],
+    "answer": 1,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chim",
+      "Cá",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Sấm",
+      "Chớp",
+      "Gió",
+      "Mưa"
+    ],
+    "answer": 3,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": 0,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Đà Nẵng",
+      "Huế",
+      "Hà Nội",
+      "TP.HCM"
+    ],
+    "answer": 2,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Không cần gì",
+      "Chỉ ánh sáng",
+      "Chỉ nước",
+      "Nước và ánh sáng"
+    ],
+    "answer": 3,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim én",
+      "Đà điểu",
+      "Chim sẻ",
+      "Chim sâu"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Tây",
+      "Bắc",
+      "Nam",
+      "Đông"
+    ],
+    "answer": 0,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Mèo",
+      "Chim",
+      "Chó",
+      "Cá"
+    ],
+    "answer": 3,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "ngọt",
+      "mặn",
+      "đắng",
+      "chua"
+    ],
+    "answer": 1,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Thu",
+      "Hạ",
+      "Đông",
+      "Xuân"
+    ],
+    "answer": 2,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Mưa",
+      "Chớp",
+      "Gió",
+      "Sấm"
+    ],
+    "answer": 0,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chim",
+      "Chó",
+      "Cá",
+      "Mèo"
+    ],
+    "answer": 2,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "chua",
+      "đắng",
+      "mặn",
+      "ngọt"
+    ],
+    "answer": 2,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Mặt trời",
+      "Sao Hỏa",
+      "Không quay",
+      "Mặt trăng"
+    ],
+    "answer": 0,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Biển",
+      "Đồi núi",
+      "Đồng bằng",
+      "Sa mạc"
+    ],
+    "answer": 2,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim sâu",
+      "Chim én",
+      "Đà điểu",
+      "Chim sẻ"
+    ],
+    "answer": 2,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Gà",
+      "Bò",
+      "Lợn",
+      "Vịt"
+    ],
+    "answer": 1,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Tây",
+      "Đông",
+      "Nam",
+      "Bắc"
+    ],
+    "answer": 0,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Chỉ ánh sáng",
+      "Không cần gì",
+      "Nước và ánh sáng",
+      "Chỉ nước"
+    ],
+    "answer": 2,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chó",
+      "Cá",
+      "Mèo",
+      "Chim"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Tim",
+      "Dạ dày",
+      "Phổi",
+      "Gan"
+    ],
+    "answer": 2,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Bò",
+      "Vịt",
+      "Lợn",
+      "Gà"
+    ],
+    "answer": 0,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Vịt",
+      "Bò",
+      "Lợn",
+      "Gà"
+    ],
+    "answer": 1,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Sấm",
+      "Mưa",
+      "Chớp",
+      "Gió"
+    ],
+    "answer": 1,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Đông",
+      "Tây",
+      "Nam"
+    ],
+    "answer": 1,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Phổi",
+      "Dạ dày",
+      "Gan",
+      "Tim"
+    ],
+    "answer": 0,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Thu",
+      "Đông",
+      "Xuân",
+      "Hạ"
+    ],
+    "answer": 3,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Đà Nẵng",
+      "Hà Nội",
+      "Huế",
+      "TP.HCM"
+    ],
+    "answer": 1,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Hơi nước",
+      "Khói",
+      "Đất",
+      "Đá"
+    ],
+    "answer": 0,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Xuân",
+      "Đông",
+      "Thu",
+      "Hạ"
+    ],
+    "answer": 3,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Đông",
+      "Tây",
+      "Nam"
+    ],
+    "answer": 2,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Sao Hỏa",
+      "Mặt trăng",
+      "Không quay",
+      "Mặt trời"
+    ],
+    "answer": 3,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Ếch",
+      "Mèo",
+      "Chó",
+      "Bò"
+    ],
+    "answer": 0,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Không quay",
+      "Mặt trời",
+      "Sao Hỏa",
+      "Mặt trăng"
+    ],
+    "answer": 1,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Đồi núi",
+      "Đồng bằng",
+      "Biển",
+      "Sa mạc"
+    ],
+    "answer": 1,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Ếch",
+      "Mèo",
+      "Chó",
+      "Bò"
+    ],
+    "answer": 0,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chim",
+      "Mèo",
+      "Chó",
+      "Cá"
+    ],
+    "answer": 3,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chim",
+      "Chó",
+      "Cá",
+      "Mèo"
+    ],
+    "answer": 2,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Tây",
+      "Nam",
+      "Bắc",
+      "Đông"
+    ],
+    "answer": 0,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Mặt trời",
+      "Sao Hỏa",
+      "Mặt trăng",
+      "Không quay"
+    ],
+    "answer": 0,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Không cần gì",
+      "Nước và ánh sáng",
+      "Chỉ nước",
+      "Chỉ ánh sáng"
+    ],
+    "answer": 1,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Huế",
+      "Đà Nẵng",
+      "Hà Nội",
+      "TP.HCM"
+    ],
+    "answer": 2,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Nam",
+      "Tây",
+      "Đông"
+    ],
+    "answer": 2,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Mèo",
+      "Gà",
+      "Voi",
+      "Chó"
+    ],
+    "answer": 2,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Nước và ánh sáng",
+      "Không cần gì",
+      "Chỉ ánh sáng",
+      "Chỉ nước"
+    ],
+    "answer": 0,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Sấm",
+      "Chớp",
+      "Gió",
+      "Mưa"
+    ],
+    "answer": 3,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Phổi",
+      "Tim",
+      "Gan",
+      "Dạ dày"
+    ],
+    "answer": 0,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Tim",
+      "Dạ dày",
+      "Phổi",
+      "Gan"
+    ],
+    "answer": 2,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Xuân",
+      "Thu",
+      "Đông",
+      "Hạ"
+    ],
+    "answer": 2,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "chua",
+      "đắng",
+      "mặn",
+      "ngọt"
+    ],
+    "answer": 2,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Biển",
+      "Đồng bằng",
+      "Đồi núi",
+      "Sa mạc"
+    ],
+    "answer": 1,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Mèo",
+      "Ếch",
+      "Bò",
+      "Chó"
+    ],
+    "answer": 1,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Chó",
+      "Voi",
+      "Mèo",
+      "Gà"
+    ],
+    "answer": 1,
+    "emoji": "🐘"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Huế",
+      "TP.HCM",
+      "Đà Nẵng",
+      "Hà Nội"
+    ],
+    "answer": 3,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Khói",
+      "Hơi nước",
+      "Đá",
+      "Đất"
+    ],
+    "answer": 1,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "TP.HCM",
+      "Huế",
+      "Hà Nội",
+      "Đà Nẵng"
+    ],
+    "answer": 2,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Phổi",
+      "Dạ dày",
+      "Tim",
+      "Gan"
+    ],
+    "answer": 0,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Tây",
+      "Đông",
+      "Nam"
+    ],
+    "answer": 2,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "TP.HCM",
+      "Huế",
+      "Hà Nội",
+      "Đà Nẵng"
+    ],
+    "answer": 2,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "ngọt",
+      "đắng",
+      "mặn",
+      "chua"
+    ],
+    "answer": 2,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim sâu",
+      "Chim sẻ",
+      "Đà điểu",
+      "Chim én"
+    ],
+    "answer": 2,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Chỉ ánh sáng",
+      "Không cần gì",
+      "Nước và ánh sáng",
+      "Chỉ nước"
+    ],
+    "answer": 2,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Xuân",
+      "Thu",
+      "Đông",
+      "Hạ"
+    ],
+    "answer": 3,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Đất",
+      "Hơi nước",
+      "Khói",
+      "Đá"
+    ],
+    "answer": 1,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Đông",
+      "Thu",
+      "Xuân",
+      "Hạ"
+    ],
+    "answer": 0,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "chua",
+      "mặn",
+      "đắng",
+      "ngọt"
+    ],
+    "answer": 1,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Mặt trời",
+      "Sao Hỏa",
+      "Không quay",
+      "Mặt trăng"
+    ],
+    "answer": 0,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Hơi nước",
+      "Đất",
+      "Khói",
+      "Đá"
+    ],
+    "answer": 0,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Thu",
+      "Hạ",
+      "Xuân",
+      "Đông"
+    ],
+    "answer": 1,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Gió",
+      "Sấm",
+      "Mưa",
+      "Chớp"
+    ],
+    "answer": 2,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Bò",
+      "Ếch",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 1,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chó",
+      "Cá",
+      "Mèo",
+      "Chim"
+    ],
+    "answer": 1,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "chua",
+      "mặn",
+      "ngọt",
+      "đắng"
+    ],
+    "answer": 1,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "mặn",
+      "đắng",
+      "chua",
+      "ngọt"
+    ],
+    "answer": 0,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "ngọt",
+      "đắng",
+      "chua",
+      "mặn"
+    ],
+    "answer": 3,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Đông",
+      "Nam",
+      "Tây"
+    ],
+    "answer": 3,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Chớp",
+      "Sấm",
+      "Gió",
+      "Mưa"
+    ],
+    "answer": 3,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Mặt trăng",
+      "Mặt trời",
+      "Không quay",
+      "Sao Hỏa"
+    ],
+    "answer": 1,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Mèo",
+      "Chó",
+      "Bò",
+      "Ếch"
+    ],
+    "answer": 3,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chó",
+      "Chim",
+      "Mèo",
+      "Cá"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Hạ",
+      "Xuân",
+      "Thu",
+      "Đông"
+    ],
+    "answer": 0,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Hà Nội",
+      "Đà Nẵng",
+      "Huế",
+      "TP.HCM"
+    ],
+    "answer": 0,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Chỉ nước",
+      "Không cần gì",
+      "Nước và ánh sáng",
+      "Chỉ ánh sáng"
+    ],
+    "answer": 2,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Mèo",
+      "Cá",
+      "Chó",
+      "Chim"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Xuân",
+      "Đông",
+      "Hạ",
+      "Thu"
+    ],
+    "answer": 1,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Tây",
+      "Nam",
+      "Đông",
+      "Bắc"
+    ],
+    "answer": 2,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chim",
+      "Chó",
+      "Cá",
+      "Mèo"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": 0,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Khói",
+      "Đá",
+      "Hơi nước",
+      "Đất"
+    ],
+    "answer": 2,
+    "emoji": "☁️"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chó",
+      "Mèo",
+      "Chim",
+      "Cá"
+    ],
+    "answer": 3,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Nam",
+      "Đông",
+      "Tây"
+    ],
+    "answer": 2,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 1,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Sấm",
+      "Chớp",
+      "Mưa",
+      "Gió"
+    ],
+    "answer": 2,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Phổi",
+      "Dạ dày",
+      "Gan",
+      "Tim"
+    ],
+    "answer": 0,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Tây",
+      "Nam",
+      "Bắc",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Dạ dày",
+      "Phổi",
+      "Tim",
+      "Gan"
+    ],
+    "answer": 1,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Dạ dày",
+      "Gan",
+      "Phổi",
+      "Tim"
+    ],
+    "answer": 2,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Đồi núi",
+      "Sa mạc",
+      "Đồng bằng",
+      "Biển"
+    ],
+    "answer": 2,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Tây",
+      "Nam",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Mưa",
+      "Gió",
+      "Sấm",
+      "Chớp"
+    ],
+    "answer": 0,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Tây",
+      "Nam",
+      "Đông",
+      "Bắc"
+    ],
+    "answer": 0,
+    "emoji": "🌇"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Chó",
+      "Mèo",
+      "Ếch",
+      "Bò"
+    ],
+    "answer": 2,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Bò",
+      "Mèo",
+      "Chó",
+      "Ếch"
+    ],
+    "answer": 3,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim én",
+      "Chim sâu",
+      "Chim sẻ",
+      "Đà điểu"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Tim",
+      "Dạ dày",
+      "Phổi",
+      "Gan"
+    ],
+    "answer": 2,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "mặn",
+      "chua",
+      "đắng",
+      "ngọt"
+    ],
+    "answer": 0,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Gan",
+      "Phổi",
+      "Dạ dày",
+      "Tim"
+    ],
+    "answer": 1,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Vùng đất xung quanh sông thường gọi là?",
+    "options": [
+      "Đồng bằng",
+      "Sa mạc",
+      "Biển",
+      "Đồi núi"
+    ],
+    "answer": 0,
+    "emoji": "🏞️"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Cá",
+      "Chó",
+      "Chim",
+      "Mèo"
+    ],
+    "answer": 0,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Chớp",
+      "Mưa",
+      "Gió",
+      "Sấm"
+    ],
+    "answer": 1,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Gà",
+      "Bò",
+      "Lợn",
+      "Vịt"
+    ],
+    "answer": 1,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chó",
+      "Cá",
+      "Chim",
+      "Mèo"
+    ],
+    "answer": 2,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "Loài nào có cánh mà không bay?",
+    "options": [
+      "Chim sâu",
+      "Chim sẻ",
+      "Chim én",
+      "Đà điểu"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Cây cần gì để sống?",
+    "options": [
+      "Chỉ nước",
+      "Nước và ánh sáng",
+      "Không cần gì",
+      "Chỉ ánh sáng"
+    ],
+    "answer": 1,
+    "emoji": "🌱"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chó",
+      "Cá",
+      "Mèo",
+      "Chim"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Gió",
+      "Chớp",
+      "Sấm",
+      "Mưa"
+    ],
+    "answer": 3,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Đông",
+      "Hạ",
+      "Thu",
+      "Xuân"
+    ],
+    "answer": 0,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "TP.HCM",
+      "Đà Nẵng",
+      "Hà Nội",
+      "Huế"
+    ],
+    "answer": 2,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chó",
+      "Chim",
+      "Mèo",
+      "Cá"
+    ],
+    "answer": 3,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Tim",
+      "Dạ dày",
+      "Phổi",
+      "Gan"
+    ],
+    "answer": 2,
+    "emoji": "🫁"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Xuân",
+      "Thu",
+      "Hạ",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chó",
+      "Cá",
+      "Mèo",
+      "Chim"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Chim",
+      "Cá",
+      "Mèo",
+      "Chó"
+    ],
+    "answer": 0,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Chó",
+      "Ếch",
+      "Mèo",
+      "Bò"
+    ],
+    "answer": 1,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chim",
+      "Cá",
+      "Chó",
+      "Mèo"
+    ],
+    "answer": 1,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Mùa nào lạnh nhất ở miền Bắc Việt Nam?",
+    "options": [
+      "Đông",
+      "Hạ",
+      "Thu",
+      "Xuân"
+    ],
+    "answer": 0,
+    "emoji": "❄️"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Đông",
+      "Nam",
+      "Bắc",
+      "Tây"
+    ],
+    "answer": 0,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "chua",
+      "đắng",
+      "mặn",
+      "ngọt"
+    ],
+    "answer": 2,
+    "emoji": "🌊"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Sao Hỏa",
+      "Mặt trời",
+      "Mặt trăng",
+      "Không quay"
+    ],
+    "answer": 1,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Chó",
+      "Mèo",
+      "Cá",
+      "Chim"
+    ],
+    "answer": 2,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Mưa",
+      "Sấm",
+      "Gió",
+      "Chớp"
+    ],
+    "answer": 0,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Bò",
+      "Chó",
+      "Ếch",
+      "Mèo"
+    ],
+    "answer": 2,
+    "emoji": "🐸"
+  }
+]

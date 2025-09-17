@@ -1,0 +1,1693 @@
+[
+  {
+    "q": "43 + 42 = ?",
+    "options": [
+      "88",
+      "83",
+      "84",
+      "85"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "Từ trái nghĩa của 'nhanh' là gì?",
+    "options": [
+      "vội",
+      "mau",
+      "chậm",
+      "sớm"
+    ],
+    "answer": 2,
+    "emoji": "📏"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Tây",
+      "Đông",
+      "Nam",
+      "Bắc"
+    ],
+    "answer": 1,
+    "emoji": "🌅"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'nhanh'?",
+    "options": [
+      "chậm",
+      "ngồi",
+      "mau",
+      "đứng"
+    ],
+    "answer": 2,
+    "emoji": "😊"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'vui'?",
+    "options": [
+      "sợ",
+      "giận",
+      "buồn",
+      "hạnh phúc"
+    ],
+    "answer": 3,
+    "emoji": "😊"
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "36 + 57 = ?",
+    "options": [
+      "91",
+      "95",
+      "93",
+      "94"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Sorry",
+      "Thanks",
+      "Bye",
+      "Hello"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "9 + 36 = ?",
+    "options": [
+      "47",
+      "45",
+      "49",
+      "48"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "2 + 59 = ?",
+    "options": [
+      "62",
+      "59",
+      "63",
+      "61"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "23 + 17 = ?",
+    "options": [
+      "43",
+      "44",
+      "41",
+      "40"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "14 + 63 = ?",
+    "options": [
+      "77",
+      "75",
+      "80",
+      "82"
+    ],
+    "answer": 0,
+    "emoji": "➕"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "options": [
+      "Bắc",
+      "Nam",
+      "Tây",
+      "Đông"
+    ],
+    "answer": 3,
+    "emoji": "🌅"
+  },
+  {
+    "q": "71 + 6 = ?",
+    "options": [
+      "82",
+      "80",
+      "77",
+      "78"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Mèo",
+      "Chim",
+      "Cá",
+      "Chó"
+    ],
+    "answer": 2,
+    "emoji": "🐠"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'to'?",
+    "options": [
+      "lớn",
+      "mảnh",
+      "bé",
+      "thấp"
+    ],
+    "answer": 0,
+    "emoji": "😊"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'nhỏ'?",
+    "options": [
+      "to",
+      "dài",
+      "bé",
+      "cao"
+    ],
+    "answer": 2,
+    "emoji": "😊"
+  },
+  {
+    "q": "77 + 3 = ?",
+    "options": [
+      "77",
+      "80",
+      "83",
+      "81"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'vui'?",
+    "options": [
+      "sợ",
+      "buồn",
+      "hạnh phúc",
+      "giận"
+    ],
+    "answer": 2,
+    "emoji": "😊"
+  },
+  {
+    "q": "Từ trái nghĩa của 'nóng' là gì?",
+    "options": [
+      "mát",
+      "lạnh",
+      "se",
+      "ấm"
+    ],
+    "answer": 1,
+    "emoji": "📏"
+  },
+  {
+    "q": "40 + 6 = ?",
+    "options": [
+      "46",
+      "43",
+      "47",
+      "50"
+    ],
+    "answer": 0,
+    "emoji": "➕"
+  },
+  {
+    "q": "10 + 38 = ?",
+    "options": [
+      "48",
+      "46",
+      "45",
+      "51"
+    ],
+    "answer": 0,
+    "emoji": "➕"
+  },
+  {
+    "q": "42 + 32 = ?",
+    "options": [
+      "72",
+      "76",
+      "79",
+      "74"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "50 + 44 = ?",
+    "options": [
+      "94",
+      "99",
+      "97",
+      "93"
+    ],
+    "answer": 0,
+    "emoji": "➕"
+  },
+  {
+    "q": "48 + 22 = ?",
+    "options": [
+      "68",
+      "70",
+      "69",
+      "72"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Green"
+    ],
+    "answer": 0,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Dad",
+      "Brother",
+      "Sister",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Cá",
+      "Mèo",
+      "Chim",
+      "Chó"
+    ],
+    "answer": 0,
+    "emoji": "🐠"
+  },
+  {
+    "q": "72 + 2 = ?",
+    "options": [
+      "73",
+      "72",
+      "71",
+      "74"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "4 + 24 = ?",
+    "options": [
+      "30",
+      "31",
+      "25",
+      "28"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "42 + 54 = ?",
+    "options": [
+      "95",
+      "97",
+      "96",
+      "99"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "10 + 74 = ?",
+    "options": [
+      "83",
+      "84",
+      "86",
+      "81"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Purple",
+      "Green",
+      "Pink",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "30 + 12 = ?",
+    "options": [
+      "40",
+      "47",
+      "46",
+      "42"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "2 + 19 = ?",
+    "options": [
+      "25",
+      "20",
+      "19",
+      "21"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "Từ nào viết đúng chính tả?",
+    "options": [
+      "con meó",
+      "con mèw",
+      "con mèo",
+      "con meo"
+    ],
+    "answer": 2,
+    "emoji": "📝"
+  },
+  {
+    "q": "24 + 7 = ?",
+    "options": [
+      "31",
+      "29",
+      "36",
+      "33"
+    ],
+    "answer": 0,
+    "emoji": "➕"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Hơi nước",
+      "Đá",
+      "Đất",
+      "Khói"
+    ],
+    "answer": 0,
+    "emoji": "☁️"
+  },
+  {
+    "q": "43 + 9 = ?",
+    "options": [
+      "55",
+      "56",
+      "50",
+      "52"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'nhanh'?",
+    "options": [
+      "ngồi",
+      "mau",
+      "chậm",
+      "đứng"
+    ],
+    "answer": 1,
+    "emoji": "😊"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'vui'?",
+    "options": [
+      "giận",
+      "hạnh phúc",
+      "buồn",
+      "sợ"
+    ],
+    "answer": 1,
+    "emoji": "😊"
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Bird",
+      "Dog"
+    ],
+    "answer": 0,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "Âm đầu của từ 'bàn' là gì?",
+    "options": [
+      "ba",
+      "b",
+      "à",
+      "n"
+    ],
+    "answer": 1,
+    "emoji": "🔤"
+  },
+  {
+    "q": "Âm cuối của từ 'nhà' là gì?",
+    "options": [
+      "à",
+      "n",
+      "h",
+      "a"
+    ],
+    "answer": 3,
+    "emoji": "🔤"
+  },
+  {
+    "q": "4 + 15 = ?",
+    "options": [
+      "21",
+      "18",
+      "19",
+      "16"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "Âm cuối của từ 'nhà' là gì?",
+    "options": [
+      "a",
+      "à",
+      "n",
+      "h"
+    ],
+    "answer": 0,
+    "emoji": "🔤"
+  },
+  {
+    "q": "Con vật nào cho sữa?",
+    "options": [
+      "Bò",
+      "Vịt",
+      "Gà",
+      "Lợn"
+    ],
+    "answer": 0,
+    "emoji": "🐄"
+  },
+  {
+    "q": "Mây tạo thành từ gì?",
+    "options": [
+      "Hơi nước",
+      "Đất",
+      "Đá",
+      "Khói"
+    ],
+    "answer": 0,
+    "emoji": "☁️"
+  },
+  {
+    "q": "62 + 38 = ?",
+    "options": [
+      "98",
+      "97",
+      "100",
+      "99"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "Con vật nào có vòi?",
+    "options": [
+      "Gà",
+      "Mèo",
+      "Voi",
+      "Chó"
+    ],
+    "answer": 2,
+    "emoji": "🐘"
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'nhỏ'?",
+    "options": [
+      "dài",
+      "to",
+      "bé",
+      "cao"
+    ],
+    "answer": 2,
+    "emoji": "😊"
+  },
+  {
+    "q": "Mặt trời lặn ở hướng nào?",
+    "options": [
+      "Nam",
+      "Bắc",
+      "Đông",
+      "Tây"
+    ],
+    "answer": 3,
+    "emoji": "🌇"
+  },
+  {
+    "q": "79 + 6 = ?",
+    "options": [
+      "87",
+      "85",
+      "82",
+      "90"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "19 + 30 = ?",
+    "options": [
+      "51",
+      "46",
+      "49",
+      "54"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Blue",
+      "Purple",
+      "Green",
+      "Pink"
+    ],
+    "answer": 2,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "65 + 23 = ?",
+    "options": [
+      "90",
+      "88",
+      "86",
+      "89"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "10 + 40 = ?",
+    "options": [
+      "53",
+      "55",
+      "50",
+      "47"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "Nước biển có vị gì?",
+    "options": [
+      "mặn",
+      "đắng",
+      "ngọt",
+      "chua"
+    ],
+    "answer": 0,
+    "emoji": "🌊"
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Thanks",
+      "Sorry",
+      "Goodbye",
+      "Hello"
+    ],
+    "answer": 2,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "22 + 34 = ?",
+    "options": [
+      "56",
+      "57",
+      "58",
+      "60"
+    ],
+    "answer": 0,
+    "emoji": "➕"
+  },
+  {
+    "q": "39 + 52 = ?",
+    "options": [
+      "88",
+      "91",
+      "92",
+      "93"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'đẹp'?",
+    "options": [
+      "to",
+      "xấu",
+      "nhỏ",
+      "xinh"
+    ],
+    "answer": 3,
+    "emoji": "😊"
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Cá",
+      "Mèo",
+      "Chó",
+      "Chim"
+    ],
+    "answer": 3,
+    "emoji": "🐦"
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Pen",
+      "Bag",
+      "Desk",
+      "Book"
+    ],
+    "answer": 3,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "37 + 30 = ?",
+    "options": [
+      "70",
+      "67",
+      "69",
+      "68"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "Từ trái nghĩa của 'cao' là gì?",
+    "options": [
+      "thấp",
+      "lớn",
+      "dài",
+      "to"
+    ],
+    "answer": 0,
+    "emoji": "📏"
+  },
+  {
+    "q": "Âm đầu của từ 'bàn' là gì?",
+    "options": [
+      "ba",
+      "à",
+      "b",
+      "n"
+    ],
+    "answer": 2,
+    "emoji": "🔤"
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Green",
+      "Blue"
+    ],
+    "answer": 0,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "21 + 47 = ?",
+    "options": [
+      "70",
+      "72",
+      "68",
+      "71"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "Âm cuối của từ 'nhà' là gì?",
+    "options": [
+      "à",
+      "a",
+      "h",
+      "n"
+    ],
+    "answer": 1,
+    "emoji": "🔤"
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Hello",
+      "Sorry",
+      "Goodbye",
+      "Thanks"
+    ],
+    "answer": 2,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "Âm cuối của từ 'nhà' là gì?",
+    "options": [
+      "a",
+      "h",
+      "à",
+      "n"
+    ],
+    "answer": 0,
+    "emoji": "🔤"
+  },
+  {
+    "q": "44 + 27 = ?",
+    "options": [
+      "71",
+      "76",
+      "68",
+      "73"
+    ],
+    "answer": 0,
+    "emoji": "➕"
+  },
+  {
+    "q": "Âm đầu của từ 'bàn' là gì?",
+    "options": [
+      "n",
+      "à",
+      "b",
+      "ba"
+    ],
+    "answer": 2,
+    "emoji": "🔤"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Hạ",
+      "Xuân",
+      "Thu",
+      "Đông"
+    ],
+    "answer": 0,
+    "emoji": "☀️"
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Hello",
+      "Bye",
+      "Sorry",
+      "Thanks"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "Thủ đô của Việt Nam là?",
+    "options": [
+      "Huế",
+      "TP.HCM",
+      "Đà Nẵng",
+      "Hà Nội"
+    ],
+    "answer": 3,
+    "emoji": "🏛️"
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Thanks",
+      "Sorry",
+      "Bye",
+      "Hello"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Blue",
+      "Black",
+      "Green",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Blue",
+      "Red"
+    ],
+    "answer": 1,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Sorry",
+      "Goodbye",
+      "Thank you",
+      "Hello"
+    ],
+    "answer": 2,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Fish",
+      "Bird"
+    ],
+    "answer": 3,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'nhanh'?",
+    "options": [
+      "mau",
+      "ngồi",
+      "chậm",
+      "đứng"
+    ],
+    "answer": 0,
+    "emoji": "😊"
+  },
+  {
+    "q": "38 + 15 = ?",
+    "options": [
+      "56",
+      "53",
+      "50",
+      "57"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'nhanh'?",
+    "options": [
+      "đứng",
+      "ngồi",
+      "mau",
+      "chậm"
+    ],
+    "answer": 2,
+    "emoji": "😊"
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Red",
+      "Green"
+    ],
+    "answer": 0,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Bird",
+      "Fish"
+    ],
+    "answer": 0,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "60 + 16 = ?",
+    "options": [
+      "81",
+      "78",
+      "75",
+      "76"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": 1,
+    "emoji": "🧭"
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Gió",
+      "Sấm",
+      "Mưa",
+      "Chớp"
+    ],
+    "answer": 2,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Từ trái nghĩa của 'cao' là gì?",
+    "options": [
+      "thấp",
+      "dài",
+      "to",
+      "lớn"
+    ],
+    "answer": 0,
+    "emoji": "📏"
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 1,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'vui'?",
+    "options": [
+      "hạnh phúc",
+      "giận",
+      "buồn",
+      "sợ"
+    ],
+    "answer": 0,
+    "emoji": "😊"
+  },
+  {
+    "q": "36 + 6 = ?",
+    "options": [
+      "39",
+      "42",
+      "41",
+      "45"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Desk",
+      "Pen",
+      "Book",
+      "Bag"
+    ],
+    "answer": 1,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Không quay",
+      "Mặt trăng",
+      "Mặt trời",
+      "Sao Hỏa"
+    ],
+    "answer": 2,
+    "emoji": "🌍"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'nhỏ'?",
+    "options": [
+      "to",
+      "cao",
+      "dài",
+      "bé"
+    ],
+    "answer": 3,
+    "emoji": "😊"
+  },
+  {
+    "q": "6 + 41 = ?",
+    "options": [
+      "51",
+      "47",
+      "49",
+      "52"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'to'?",
+    "options": [
+      "thấp",
+      "bé",
+      "lớn",
+      "mảnh"
+    ],
+    "answer": 2,
+    "emoji": "😊"
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Green",
+      "Blue",
+      "Black",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "31 + 17 = ?",
+    "options": [
+      "48",
+      "49",
+      "53",
+      "46"
+    ],
+    "answer": 0,
+    "emoji": "➕"
+  },
+  {
+    "q": "21 + 60 = ?",
+    "options": [
+      "82",
+      "85",
+      "81",
+      "83"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Book",
+      "Bag",
+      "Desk",
+      "Chair"
+    ],
+    "answer": 2,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Cat",
+      "Bird",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 0,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "29 + 14 = ?",
+    "options": [
+      "45",
+      "41",
+      "46",
+      "43"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "8 + 22 = ?",
+    "options": [
+      "32",
+      "35",
+      "28",
+      "30"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "Loài nào sống cả trên cạn và dưới nước?",
+    "options": [
+      "Bò",
+      "Mèo",
+      "Chó",
+      "Ếch"
+    ],
+    "answer": 3,
+    "emoji": "🐸"
+  },
+  {
+    "q": "Từ nào đồng nghĩa với 'to'?",
+    "options": [
+      "mảnh",
+      "thấp",
+      "lớn",
+      "bé"
+    ],
+    "answer": 2,
+    "emoji": "😊"
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Purple",
+      "Green",
+      "Blue",
+      "Pink"
+    ],
+    "answer": 1,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Gan",
+      "Phổi",
+      "Tim",
+      "Dạ dày"
+    ],
+    "answer": 1,
+    "emoji": "🫁"
+  },
+  {
+    "q": "46 + 31 = ?",
+    "options": [
+      "74",
+      "77",
+      "80",
+      "76"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "83 + 9 = ?",
+    "options": [
+      "97",
+      "92",
+      "94",
+      "96"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "Âm đầu của từ 'ghế' là gì?",
+    "options": [
+      "ê",
+      "gh",
+      "h",
+      "g"
+    ],
+    "answer": 1,
+    "emoji": "🔤"
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "answer": 1,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "Từ nào viết đúng chính tả?",
+    "options": [
+      "quả chuốih",
+      "quả chui",
+      "quả chối",
+      "quả chuối"
+    ],
+    "answer": 3,
+    "emoji": "📝"
+  },
+  {
+    "q": "Cơ quan nào dùng để thở?",
+    "options": [
+      "Dạ dày",
+      "Tim",
+      "Phổi",
+      "Gan"
+    ],
+    "answer": 2,
+    "emoji": "🫁"
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Black",
+      "Yellow",
+      "Green",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "Hiện tượng rơi nước từ mây xuống gọi là?",
+    "options": [
+      "Mưa",
+      "Chớp",
+      "Sấm",
+      "Gió"
+    ],
+    "answer": 0,
+    "emoji": "🌧️"
+  },
+  {
+    "q": "Bảng hướng cơ bản gồm mấy hướng?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "🧭"
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Book",
+      "Pen",
+      "Bag",
+      "Desk"
+    ],
+    "answer": 0,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "32 + 48 = ?",
+    "options": [
+      "82",
+      "80",
+      "79",
+      "85"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "47 + 29 = ?",
+    "options": [
+      "74",
+      "75",
+      "76",
+      "81"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "Từ nào viết đúng chính tả?",
+    "options": [
+      "quả chui",
+      "quả chuốih",
+      "quả chối",
+      "quả chuối"
+    ],
+    "answer": 3,
+    "emoji": "📝"
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Fish",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "9 + 68 = ?",
+    "options": [
+      "77",
+      "74",
+      "82",
+      "81"
+    ],
+    "answer": 0,
+    "emoji": "➕"
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Bag",
+      "Chair",
+      "Desk",
+      "Book"
+    ],
+    "answer": 2,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "1 + 10 = ?",
+    "options": [
+      "11",
+      "12",
+      "9",
+      "8"
+    ],
+    "answer": 0,
+    "emoji": "➕"
+  },
+  {
+    "q": "Âm đầu của từ 'cây' là gì?",
+    "options": [
+      "y",
+      "ê",
+      "c",
+      "ca"
+    ],
+    "answer": 2,
+    "emoji": "🔤"
+  },
+  {
+    "q": "9 + 71 = ?",
+    "options": [
+      "83",
+      "79",
+      "81",
+      "80"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "Âm đầu của từ 'ghế' là gì?",
+    "options": [
+      "gh",
+      "ê",
+      "g",
+      "h"
+    ],
+    "answer": 0,
+    "emoji": "🔤"
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": 1,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "Con vật nào bay được?",
+    "options": [
+      "Mèo",
+      "Chim",
+      "Chó",
+      "Cá"
+    ],
+    "answer": 1,
+    "emoji": "🐦"
+  },
+  {
+    "q": "Trái Đất quay quanh gì?",
+    "options": [
+      "Không quay",
+      "Sao Hỏa",
+      "Mặt trời",
+      "Mặt trăng"
+    ],
+    "answer": 2,
+    "emoji": "🌍"
+  },
+  {
+    "q": "13 + 84 = ?",
+    "options": [
+      "94",
+      "96",
+      "97",
+      "100"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Green",
+      "Blue"
+    ],
+    "answer": 3,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "7 + 87 = ?",
+    "options": [
+      "91",
+      "94",
+      "98",
+      "92"
+    ],
+    "answer": 1,
+    "emoji": "➕"
+  },
+  {
+    "q": "19 + 32 = ?",
+    "options": [
+      "50",
+      "49",
+      "51",
+      "55"
+    ],
+    "answer": 2,
+    "emoji": "➕"
+  },
+  {
+    "q": "70 + 11 = ?",
+    "options": [
+      "85",
+      "80",
+      "82",
+      "81"
+    ],
+    "answer": 3,
+    "emoji": "➕"
+  },
+  {
+    "q": "Từ trái nghĩa của 'nóng' là gì?",
+    "options": [
+      "mát",
+      "lạnh",
+      "ấm",
+      "se"
+    ],
+    "answer": 1,
+    "emoji": "📏"
+  },
+  {
+    "q": "Mùa nào nóng nhất ở Việt Nam?",
+    "options": [
+      "Đông",
+      "Thu",
+      "Xuân",
+      "Hạ"
+    ],
+    "answer": 3,
+    "emoji": "☀️"
+  },
+  {
+    "q": "Con vật nào sống dưới nước?",
+    "options": [
+      "Mèo",
+      "Cá",
+      "Chó",
+      "Chim"
+    ],
+    "answer": 1,
+    "emoji": "🐠"
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "☀️",
+    "speak": true
+  }
+]

@@ -1,0 +1,4802 @@
+[
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Bird",
+      "Cat"
+    ],
+    "answer": 3,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Yellow",
+      "Black",
+      "Blue",
+      "Green"
+    ],
+    "answer": 0,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Purple",
+      "Green",
+      "Pink",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Pen",
+      "Desk",
+      "Book",
+      "Bag"
+    ],
+    "answer": 0,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Book",
+      "Pen",
+      "Desk",
+      "Bag"
+    ],
+    "answer": 0,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Thanks",
+      "Sorry",
+      "Bye",
+      "Hello"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Thanks",
+      "Sorry"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Book",
+      "Pen",
+      "Bag",
+      "Desk"
+    ],
+    "answer": 0,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Thanks",
+      "Goodbye",
+      "Sorry",
+      "Hello"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Purple",
+      "Green",
+      "Blue",
+      "Pink"
+    ],
+    "answer": 1,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Book",
+      "Desk",
+      "Pen",
+      "Bag"
+    ],
+    "answer": 2,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Pen",
+      "Book",
+      "Desk",
+      "Bag"
+    ],
+    "answer": 0,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Fish",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Bird",
+      "Dog"
+    ],
+    "answer": 0,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Book",
+      "Desk",
+      "Bag",
+      "Pen"
+    ],
+    "answer": 3,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Hello",
+      "Bye",
+      "Sorry",
+      "Thanks"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Dad",
+      "Mom",
+      "Brother",
+      "Sister"
+    ],
+    "answer": 1,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Dad",
+      "Brother",
+      "Mom",
+      "Sister"
+    ],
+    "answer": 2,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Sorry",
+      "Hello",
+      "Bye",
+      "Thanks"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Thanks",
+      "Sorry",
+      "Goodbye",
+      "Hello"
+    ],
+    "answer": 2,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Pen",
+      "Bag",
+      "Desk",
+      "Book"
+    ],
+    "answer": 0,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Green",
+      "Blue"
+    ],
+    "answer": 0,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Sorry",
+      "Thank you"
+    ],
+    "answer": 3,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Goodbye",
+      "Thank you",
+      "Sorry",
+      "Hello"
+    ],
+    "answer": 1,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Dad",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Desk",
+      "Bag",
+      "Chair",
+      "Book"
+    ],
+    "answer": 0,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Thank you",
+      "Hello",
+      "Goodbye",
+      "Sorry"
+    ],
+    "answer": 0,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Sorry",
+      "Goodbye",
+      "Thank you",
+      "Hello"
+    ],
+    "answer": 2,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Mom",
+      "Sister",
+      "Dad",
+      "Brother"
+    ],
+    "answer": 2,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Bird",
+      "Cat",
+      "Fish"
+    ],
+    "answer": 1,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Pink",
+      "Purple",
+      "Green",
+      "Blue"
+    ],
+    "answer": 2,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": 0,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Mom",
+      "Sister",
+      "Brother",
+      "Dad"
+    ],
+    "answer": 3,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Bag",
+      "Chair",
+      "Desk",
+      "Book"
+    ],
+    "answer": 2,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Green",
+      "Blue"
+    ],
+    "answer": 3,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Black",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Desk",
+      "Chair",
+      "Book",
+      "Bag"
+    ],
+    "answer": 0,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": 1,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Cat",
+      "Bird",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 0,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Fish",
+      "Dog",
+      "Cat",
+      "Bird"
+    ],
+    "answer": 2,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Goodbye",
+      "Thanks",
+      "Sorry",
+      "Hello"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Desk",
+      "Pen",
+      "Bag",
+      "Book"
+    ],
+    "answer": 3,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "answer": 3,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Chair",
+      "Desk",
+      "Book",
+      "Bag"
+    ],
+    "answer": 1,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Pen",
+      "Bag",
+      "Desk",
+      "Book"
+    ],
+    "answer": 3,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Bag",
+      "Desk",
+      "Book",
+      "Chair"
+    ],
+    "answer": 1,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Green",
+      "Red",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": 2,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Dog",
+      "Cat"
+    ],
+    "answer": 0,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Black",
+      "Yellow",
+      "Blue",
+      "Green"
+    ],
+    "answer": 1,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Mom",
+      "Dad"
+    ],
+    "answer": 3,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Hello",
+      "Sorry",
+      "Goodbye",
+      "Thanks"
+    ],
+    "answer": 2,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Cat",
+      "Fish",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": 1,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Blue",
+      "Purple",
+      "Green",
+      "Pink"
+    ],
+    "answer": 2,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Purple",
+      "Green",
+      "Blue",
+      "Pink"
+    ],
+    "answer": 1,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 0,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Fish",
+      "Bird",
+      "Dog",
+      "Cat"
+    ],
+    "answer": 1,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Sister",
+      "Mom",
+      "Dad",
+      "Brother"
+    ],
+    "answer": 2,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Green",
+      "Purple",
+      "Blue",
+      "Pink"
+    ],
+    "answer": 0,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Green",
+      "Blue",
+      "Yellow",
+      "Black"
+    ],
+    "answer": 2,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Dog",
+      "Bird",
+      "Cat",
+      "Fish"
+    ],
+    "answer": 3,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Fish",
+      "Dog",
+      "Bird",
+      "Cat"
+    ],
+    "answer": 0,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Dad",
+      "Brother",
+      "Sister",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Fish",
+      "Bird"
+    ],
+    "answer": 1,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 0,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Purple",
+      "Pink",
+      "Blue",
+      "Green"
+    ],
+    "answer": 3,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Fish",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": 0,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Hello",
+      "Sorry",
+      "Thanks",
+      "Bye"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Purple",
+      "Green",
+      "Pink",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 1,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Pen",
+      "Book",
+      "Desk",
+      "Bag"
+    ],
+    "answer": 0,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answer": 1,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 2,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "answer": 2,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Bird",
+      "Fish"
+    ],
+    "answer": 0,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Hello",
+      "Sorry",
+      "Thanks",
+      "Goodbye"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Desk",
+      "Pen",
+      "Bag",
+      "Book"
+    ],
+    "answer": 3,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Green"
+    ],
+    "answer": 0,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Sorry",
+      "Goodbye",
+      "Thanks",
+      "Hello"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Blue",
+      "Red"
+    ],
+    "answer": 1,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Dad",
+      "Sister",
+      "Brother",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "answer": 2,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Sorry",
+      "Thanks",
+      "Bye",
+      "Hello"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Fish",
+      "Bird"
+    ],
+    "answer": 3,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Red",
+      "Green"
+    ],
+    "answer": 0,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Fish",
+      "Dog",
+      "Bird",
+      "Cat"
+    ],
+    "answer": 1,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Black",
+      "Yellow",
+      "Green",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Fish",
+      "Bird"
+    ],
+    "answer": 1,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Book",
+      "Desk",
+      "Pen",
+      "Bag"
+    ],
+    "answer": 2,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Book",
+      "Pen",
+      "Desk",
+      "Bag"
+    ],
+    "answer": 0,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "answer": 1,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Yellow",
+      "Green",
+      "Blue",
+      "Red"
+    ],
+    "answer": 0,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Book",
+      "Desk",
+      "Bag",
+      "Pen"
+    ],
+    "answer": 3,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Green",
+      "Purple",
+      "Blue",
+      "Pink"
+    ],
+    "answer": 0,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Fish",
+      "Bird"
+    ],
+    "answer": 2,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Bird",
+      "Dog",
+      "Fish",
+      "Cat"
+    ],
+    "answer": 0,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Green",
+      "Blue",
+      "Black",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Sorry",
+      "Hello",
+      "Goodbye",
+      "Thank you"
+    ],
+    "answer": 3,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Fish",
+      "Dog"
+    ],
+    "answer": 2,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Bag",
+      "Desk",
+      "Pen",
+      "Book"
+    ],
+    "answer": 2,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Green",
+      "Red"
+    ],
+    "answer": 1,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Green",
+      "Blue",
+      "Black",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Dad",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Blue",
+      "Black",
+      "Green",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Desk",
+      "Bag",
+      "Pen",
+      "Book"
+    ],
+    "answer": 3,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Sorry",
+      "Hello",
+      "Thanks",
+      "Goodbye"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Bird",
+      "Dog",
+      "Cat",
+      "Fish"
+    ],
+    "answer": 3,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Dad",
+      "Mom",
+      "Sister",
+      "Brother"
+    ],
+    "answer": 1,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Book",
+      "Bag",
+      "Desk",
+      "Chair"
+    ],
+    "answer": 2,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Blue"
+    ],
+    "answer": 3,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Desk",
+      "Book",
+      "Bag",
+      "Chair"
+    ],
+    "answer": 0,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Hello",
+      "Thanks",
+      "Bye",
+      "Sorry"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Fish",
+      "Bird",
+      "Dog",
+      "Cat"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Green",
+      "Pink",
+      "Purple",
+      "Blue"
+    ],
+    "answer": 0,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Desk",
+      "Pen",
+      "Book",
+      "Bag"
+    ],
+    "answer": 1,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Cat",
+      "Bird",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 0,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": 2,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Purple",
+      "Green",
+      "Pink",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Hello",
+      "Sorry",
+      "Thank you",
+      "Goodbye"
+    ],
+    "answer": 2,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Cat",
+      "Bird"
+    ],
+    "answer": 3,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Dad",
+      "Mom",
+      "Sister",
+      "Brother"
+    ],
+    "answer": 0,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Desk",
+      "Chair",
+      "Book",
+      "Bag"
+    ],
+    "answer": 0,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Hello",
+      "Sorry",
+      "Thank you",
+      "Goodbye"
+    ],
+    "answer": 2,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Sister",
+      "Brother",
+      "Dad",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Green",
+      "Red"
+    ],
+    "answer": 1,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Sister",
+      "Brother",
+      "Mom",
+      "Dad"
+    ],
+    "answer": 2,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": 2,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Cat",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Blue",
+      "Black",
+      "Yellow",
+      "Green"
+    ],
+    "answer": 2,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 1,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Chair",
+      "Book",
+      "Desk",
+      "Bag"
+    ],
+    "answer": 2,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Bird",
+      "Fish",
+      "Cat"
+    ],
+    "answer": 1,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Cat",
+      "Fish",
+      "Bird",
+      "Dog"
+    ],
+    "answer": 1,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 2,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Green",
+      "Blue",
+      "Yellow",
+      "Red"
+    ],
+    "answer": 1,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Green",
+      "Blue",
+      "Yellow",
+      "Red"
+    ],
+    "answer": 1,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 0,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Cat",
+      "Dog"
+    ],
+    "answer": 1,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Book",
+      "Pen",
+      "Bag",
+      "Desk"
+    ],
+    "answer": 1,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Red",
+      "Green",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": 2,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 0,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Green",
+      "Purple",
+      "Pink",
+      "Blue"
+    ],
+    "answer": 0,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Cat",
+      "Bird"
+    ],
+    "answer": 2,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "answer": 0,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Cat",
+      "Bird"
+    ],
+    "answer": 3,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Bird",
+      "Fish"
+    ],
+    "answer": 0,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Sister",
+      "Mom",
+      "Dad",
+      "Brother"
+    ],
+    "answer": 2,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Hello",
+      "Bye",
+      "Thanks",
+      "Sorry"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Dad",
+      "Mom",
+      "Brother",
+      "Sister"
+    ],
+    "answer": 0,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Chair",
+      "Bag",
+      "Book",
+      "Desk"
+    ],
+    "answer": 3,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Bird",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Cat",
+      "Dog"
+    ],
+    "answer": 0,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Desk",
+      "Bag",
+      "Book",
+      "Chair"
+    ],
+    "answer": 0,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Pen",
+      "Bag",
+      "Desk",
+      "Book"
+    ],
+    "answer": 3,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": 0,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Bird",
+      "Dog",
+      "Cat",
+      "Fish"
+    ],
+    "answer": 3,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Thank you",
+      "Goodbye",
+      "Hello",
+      "Sorry"
+    ],
+    "answer": 0,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Thank you",
+      "Sorry",
+      "Hello",
+      "Goodbye"
+    ],
+    "answer": 0,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Sister",
+      "Mom",
+      "Brother",
+      "Dad"
+    ],
+    "answer": 1,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Thanks",
+      "Sorry",
+      "Bye",
+      "Hello"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Blue",
+      "Black",
+      "Yellow",
+      "Green"
+    ],
+    "answer": 2,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": 0,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": 0,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Dog",
+      "Cat"
+    ],
+    "answer": 0,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": 0,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Thanks",
+      "Sorry"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Sister",
+      "Dad",
+      "Brother",
+      "Mom"
+    ],
+    "answer": 1,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Bird",
+      "Cat"
+    ],
+    "answer": 1,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Pen",
+      "Book",
+      "Bag",
+      "Desk"
+    ],
+    "answer": 0,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Goodbye",
+      "Hello",
+      "Thank you",
+      "Sorry"
+    ],
+    "answer": 2,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Sister",
+      "Brother",
+      "Dad",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Bag",
+      "Desk",
+      "Book",
+      "Chair"
+    ],
+    "answer": 1,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Brother",
+      "Dad",
+      "Mom",
+      "Sister"
+    ],
+    "answer": 1,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Thank you",
+      "Hello",
+      "Goodbye",
+      "Sorry"
+    ],
+    "answer": 0,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Desk",
+      "Book",
+      "Pen",
+      "Bag"
+    ],
+    "answer": 1,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Chair",
+      "Bag",
+      "Book",
+      "Desk"
+    ],
+    "answer": 3,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": 1,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Sorry",
+      "Hello",
+      "Thanks",
+      "Goodbye"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Bird",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Desk",
+      "Chair",
+      "Bag",
+      "Book"
+    ],
+    "answer": 0,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Black",
+      "Green",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": 2,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Blue",
+      "Pink",
+      "Green",
+      "Purple"
+    ],
+    "answer": 2,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Fish",
+      "Dog",
+      "Cat",
+      "Bird"
+    ],
+    "answer": 3,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Bird",
+      "Fish",
+      "Cat"
+    ],
+    "answer": 1,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Sister",
+      "Brother",
+      "Dad",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Cat",
+      "Bird"
+    ],
+    "answer": 0,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Fish",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Sister",
+      "Brother",
+      "Mom",
+      "Dad"
+    ],
+    "answer": 3,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Cat",
+      "Bird",
+      "Fish",
+      "Dog"
+    ],
+    "answer": 0,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Dad",
+      "Brother",
+      "Sister",
+      "Mom"
+    ],
+    "answer": 0,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Desk",
+      "Book",
+      "Bag",
+      "Chair"
+    ],
+    "answer": 0,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 2,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Sister",
+      "Brother",
+      "Dad",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Pen",
+      "Book",
+      "Desk",
+      "Bag"
+    ],
+    "answer": 0,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Dad",
+      "Mom",
+      "Sister",
+      "Brother"
+    ],
+    "answer": 1,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Black",
+      "Green"
+    ],
+    "answer": 0,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Sorry",
+      "Hello",
+      "Bye",
+      "Thanks"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Goodbye",
+      "Sorry",
+      "Thank you",
+      "Hello"
+    ],
+    "answer": 2,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Dad",
+      "Mom",
+      "Sister",
+      "Brother"
+    ],
+    "answer": 1,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Bag",
+      "Book",
+      "Chair",
+      "Desk"
+    ],
+    "answer": 3,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Fish",
+      "Dog",
+      "Bird",
+      "Cat"
+    ],
+    "answer": 0,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Yellow",
+      "Green",
+      "Black",
+      "Blue"
+    ],
+    "answer": 0,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Bag",
+      "Desk",
+      "Pen",
+      "Book"
+    ],
+    "answer": 3,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Green"
+    ],
+    "answer": 0,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Cat",
+      "Fish",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Sister",
+      "Dad",
+      "Brother",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Goodbye",
+      "Hello",
+      "Sorry",
+      "Thanks"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Bird",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 3,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Blue",
+      "Black",
+      "Green",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Mom",
+      "Sister",
+      "Brother",
+      "Dad"
+    ],
+    "answer": 0,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Fish",
+      "Bird",
+      "Dog",
+      "Cat"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Cat",
+      "Fish",
+      "Bird",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer": 0,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Fish",
+      "Dog",
+      "Bird",
+      "Cat"
+    ],
+    "answer": 1,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Bag",
+      "Book",
+      "Desk",
+      "Pen"
+    ],
+    "answer": 1,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Desk",
+      "Bag",
+      "Book",
+      "Pen"
+    ],
+    "answer": 3,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Dad",
+      "Brother",
+      "Sister",
+      "Mom"
+    ],
+    "answer": 3,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Blue",
+      "Pink",
+      "Green",
+      "Purple"
+    ],
+    "answer": 2,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Sorry",
+      "Thanks",
+      "Hello",
+      "Bye"
+    ],
+    "answer": 2,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "answer": 2,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": 1,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Cat",
+      "Bird",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 3,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Cat",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Bird",
+      "Cat",
+      "Fish"
+    ],
+    "answer": 1,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Dog",
+      "Bird",
+      "Fish",
+      "Cat"
+    ],
+    "answer": 2,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": 2,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Sister",
+      "Brother",
+      "Mom",
+      "Dad"
+    ],
+    "answer": 2,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Bye",
+      "Thanks",
+      "Sorry",
+      "Hello"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Thank you",
+      "Hello",
+      "Sorry",
+      "Goodbye"
+    ],
+    "answer": 0,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": 0,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Sister",
+      "Brother",
+      "Mom",
+      "Dad"
+    ],
+    "answer": 3,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Bag",
+      "Desk",
+      "Chair",
+      "Book"
+    ],
+    "answer": 1,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Book",
+      "Bag",
+      "Desk",
+      "Pen"
+    ],
+    "answer": 3,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "answer": 2,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Bird",
+      "Fish"
+    ],
+    "answer": 3,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Thanks",
+      "Hello",
+      "Bye",
+      "Sorry"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Dog",
+      "Bird",
+      "Cat",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 0,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 1,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Pen",
+      "Book",
+      "Bag",
+      "Desk"
+    ],
+    "answer": 0,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Green",
+      "Red"
+    ],
+    "answer": 0,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 2,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Fish",
+      "Bird",
+      "Dog",
+      "Cat"
+    ],
+    "answer": 0,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Desk",
+      "Book",
+      "Pen",
+      "Bag"
+    ],
+    "answer": 2,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Blue"
+    ],
+    "answer": 3,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Cat",
+      "Fish",
+      "Dog",
+      "Bird"
+    ],
+    "answer": 3,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Fish",
+      "Dog",
+      "Bird",
+      "Cat"
+    ],
+    "answer": 2,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Book",
+      "Bag",
+      "Desk",
+      "Chair"
+    ],
+    "answer": 2,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Goodbye",
+      "Thank you",
+      "Hello",
+      "Sorry"
+    ],
+    "answer": 1,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Bird",
+      "Fish",
+      "Cat"
+    ],
+    "answer": 1,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Fish",
+      "Bird",
+      "Cat",
+      "Dog"
+    ],
+    "answer": 0,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Fish",
+      "Bird",
+      "Cat",
+      "Dog"
+    ],
+    "answer": 1,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Thanks",
+      "Hello",
+      "Bye",
+      "Sorry"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Dad",
+      "Sister",
+      "Mom",
+      "Brother"
+    ],
+    "answer": 0,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Bird",
+      "Dog",
+      "Cat",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Goodbye",
+      "Sorry",
+      "Hello",
+      "Thank you"
+    ],
+    "answer": 3,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Book",
+      "Bag",
+      "Desk",
+      "Pen"
+    ],
+    "answer": 0,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Mom",
+      "Brother",
+      "Dad",
+      "Sister"
+    ],
+    "answer": 0,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Thanks",
+      "Hello",
+      "Goodbye",
+      "Sorry"
+    ],
+    "answer": 2,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Dog",
+      "Bird",
+      "Cat",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Fish",
+      "Bird"
+    ],
+    "answer": 3,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Dad",
+      "Sister",
+      "Mom",
+      "Brother"
+    ],
+    "answer": 0,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Hello",
+      "Thanks",
+      "Bye",
+      "Sorry"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Bag",
+      "Book",
+      "Chair",
+      "Desk"
+    ],
+    "answer": 3,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Green",
+      "Red"
+    ],
+    "answer": 1,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Bird",
+      "Dog",
+      "Cat",
+      "Fish"
+    ],
+    "answer": 0,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Pen",
+      "Book",
+      "Bag",
+      "Desk"
+    ],
+    "answer": 0,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Pink",
+      "Green",
+      "Blue",
+      "Purple"
+    ],
+    "answer": 1,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Fish",
+      "Bird"
+    ],
+    "answer": 2,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "Red"
+    ],
+    "answer": 0,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Cat",
+      "Bird"
+    ],
+    "answer": 2,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Green",
+      "Red",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": 3,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Hello",
+      "Sorry",
+      "Thanks",
+      "Goodbye"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Thank you",
+      "Goodbye",
+      "Sorry",
+      "Hello"
+    ],
+    "answer": 0,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": 0,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Goodbye",
+      "Hello",
+      "Sorry",
+      "Thank you"
+    ],
+    "answer": 3,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Fish",
+      "Bird"
+    ],
+    "answer": 1,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Hello",
+      "Sorry",
+      "Goodbye",
+      "Thanks"
+    ],
+    "answer": 2,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Mom",
+      "Sister",
+      "Brother",
+      "Dad"
+    ],
+    "answer": 3,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Thank you",
+      "Hello",
+      "Goodbye",
+      "Sorry"
+    ],
+    "answer": 0,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'cảm ơn' in English?",
+    "options": [
+      "Goodbye",
+      "Sorry",
+      "Thank you",
+      "Hello"
+    ],
+    "answer": 2,
+    "emoji": "🙏",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Dog",
+      "Cat"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Cat",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Fish",
+      "Bird",
+      "Dog",
+      "Cat"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Cat",
+      "Dog"
+    ],
+    "answer": 0,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Green",
+      "Red",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": 2,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Green",
+      "Blue",
+      "Yellow",
+      "Black"
+    ],
+    "answer": 2,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Blue",
+      "Black",
+      "Yellow",
+      "Green"
+    ],
+    "answer": 2,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Mom",
+      "Dad",
+      "Sister",
+      "Brother"
+    ],
+    "answer": 1,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Blue"
+    ],
+    "answer": 3,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Chair",
+      "Bag",
+      "Book",
+      "Desk"
+    ],
+    "answer": 3,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Desk",
+      "Bag",
+      "Book",
+      "Pen"
+    ],
+    "answer": 3,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Dad",
+      "Sister",
+      "Mom",
+      "Brother"
+    ],
+    "answer": 0,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": 0,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 0,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Sorry",
+      "Thanks",
+      "Hello",
+      "Goodbye"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Bird",
+      "Cat"
+    ],
+    "answer": 3,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Book",
+      "Pen",
+      "Desk",
+      "Bag"
+    ],
+    "answer": 1,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Hello",
+      "Bye",
+      "Thanks",
+      "Sorry"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Book",
+      "Pen",
+      "Bag",
+      "Desk"
+    ],
+    "answer": 1,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Green"
+    ],
+    "answer": 2,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Green",
+      "Blue",
+      "Purple",
+      "Pink"
+    ],
+    "answer": 0,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Cat",
+      "Bird"
+    ],
+    "answer": 1,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Thanks",
+      "Hello",
+      "Bye",
+      "Sorry"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Sorry",
+      "Thanks"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Bird",
+      "Dog",
+      "Fish",
+      "Cat"
+    ],
+    "answer": 3,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Black",
+      "Green"
+    ],
+    "answer": 0,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 2,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Desk",
+      "Bag",
+      "Book",
+      "Pen"
+    ],
+    "answer": 2,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Fish",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "Red"
+    ],
+    "answer": 0,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "answer": 0,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Mom",
+      "Brother",
+      "Sister",
+      "Dad"
+    ],
+    "answer": 3,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Bag",
+      "Pen",
+      "Book",
+      "Desk"
+    ],
+    "answer": 2,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 3,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Goodbye",
+      "Hello",
+      "Thanks",
+      "Sorry"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Bird",
+      "Cat"
+    ],
+    "answer": 1,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": 3,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": 1,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Book",
+      "Chair",
+      "Desk",
+      "Bag"
+    ],
+    "answer": 2,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Thanks",
+      "Sorry",
+      "Hello",
+      "Goodbye"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Desk",
+      "Bag",
+      "Book",
+      "Chair"
+    ],
+    "answer": 0,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bút' in English?",
+    "options": [
+      "Bag",
+      "Desk",
+      "Pen",
+      "Book"
+    ],
+    "answer": 2,
+    "emoji": "✏️",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
+    ],
+    "answer": 1,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "answer": 0,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Cat",
+      "Bird"
+    ],
+    "answer": 2,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": 1,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Dad",
+      "Mom",
+      "Brother",
+      "Sister"
+    ],
+    "answer": 0,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Blue",
+      "Purple",
+      "Green",
+      "Pink"
+    ],
+    "answer": 2,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Bird",
+      "Fish"
+    ],
+    "answer": 3,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Sorry",
+      "Thanks"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "answer": 0,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Dad",
+      "Brother",
+      "Mom",
+      "Sister"
+    ],
+    "answer": 0,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Black",
+      "Yellow",
+      "Blue",
+      "Green"
+    ],
+    "answer": 1,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Pen",
+      "Bag",
+      "Book",
+      "Desk"
+    ],
+    "answer": 2,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Brother",
+      "Mom",
+      "Sister",
+      "Dad"
+    ],
+    "answer": 1,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What do you call your mother?",
+    "options": [
+      "Sister",
+      "Mom",
+      "Dad",
+      "Brother"
+    ],
+    "answer": 1,
+    "emoji": "👩",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Fish",
+      "Bird",
+      "Dog",
+      "Cat"
+    ],
+    "answer": 1,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "answer": 1,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Dog",
+      "Fish"
+    ],
+    "answer": 1,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Purple",
+      "Pink",
+      "Blue",
+      "Green"
+    ],
+    "answer": 3,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Fish",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What is 'cái bàn' in English?",
+    "options": [
+      "Bag",
+      "Chair",
+      "Desk",
+      "Book"
+    ],
+    "answer": 2,
+    "emoji": "🪑",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Bird",
+      "Fish"
+    ],
+    "answer": 3,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Thanks",
+      "Goodbye",
+      "Hello",
+      "Sorry"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Sorry",
+      "Thanks",
+      "Hello",
+      "Goodbye"
+    ],
+    "answer": 3,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answer": 1,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What do you call your father?",
+    "options": [
+      "Sister",
+      "Brother",
+      "Dad",
+      "Mom"
+    ],
+    "answer": 2,
+    "emoji": "👨",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 3,
+    "emoji": "📅",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Goodbye",
+      "Hello",
+      "Thanks",
+      "Sorry"
+    ],
+    "answer": 0,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "How many legs does a cat have?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "emoji": "🐈",
+    "speak": true
+  },
+  {
+    "q": "What color is a banana?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Black",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "🍌",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'tạm biệt' in English?",
+    "options": [
+      "Hello",
+      "Thanks",
+      "Goodbye",
+      "Sorry"
+    ],
+    "answer": 2,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Fish",
+      "Bird"
+    ],
+    "answer": 3,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What color is the sky?",
+    "options": [
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
+    ],
+    "answer": 1,
+    "emoji": "☁️",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Purple",
+      "Green",
+      "Pink",
+      "Blue"
+    ],
+    "answer": 1,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chó' in English?",
+    "options": [
+      "Fish",
+      "Cat",
+      "Bird",
+      "Dog"
+    ],
+    "answer": 3,
+    "emoji": "🐶",
+    "speak": true
+  },
+  {
+    "q": "What color is grass?",
+    "options": [
+      "Pink",
+      "Blue",
+      "Purple",
+      "Green"
+    ],
+    "answer": 3,
+    "emoji": "🌿",
+    "speak": true
+  },
+  {
+    "q": "How do you say 'xin chào' in English?",
+    "options": [
+      "Thanks",
+      "Hello",
+      "Sorry",
+      "Bye"
+    ],
+    "answer": 1,
+    "emoji": "👋",
+    "speak": true
+  },
+  {
+    "q": "What is 'con cá' in English?",
+    "options": [
+      "Bird",
+      "Cat",
+      "Fish",
+      "Dog"
+    ],
+    "answer": 2,
+    "emoji": "🐟",
+    "speak": true
+  },
+  {
+    "q": "What is 'quyển sách' in English?",
+    "options": [
+      "Bag",
+      "Pen",
+      "Book",
+      "Desk"
+    ],
+    "answer": 2,
+    "emoji": "📘",
+    "speak": true
+  },
+  {
+    "q": "How many eyes do you have?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "emoji": "👀",
+    "speak": true
+  },
+  {
+    "q": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "answer": 3,
+    "emoji": "☀️",
+    "speak": true
+  },
+  {
+    "q": "What is 'con chim' in English?",
+    "options": [
+      "Dog",
+      "Bird",
+      "Fish",
+      "Cat"
+    ],
+    "answer": 1,
+    "emoji": "🐦",
+    "speak": true
+  },
+  {
+    "q": "What is 'con mèo' in English?",
+    "options": [
+      "Cat",
+      "Fish",
+      "Bird",
+      "Dog"
+    ],
+    "answer": 0,
+    "emoji": "🐱",
+    "speak": true
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "answer": 0,
+    "emoji": "📅",
+    "speak": true
+  }
+]
